@@ -1,0 +1,1363 @@
+Country,Year,Region,Happiness Rank,Happiness Score,GDP,Social Support,Life Expectancy,Freedom,Generosity,Corruption
+Afghanistan,2023,Southern Asia,137,1.859,0.645,0.000,0.087,0.000,0.093,0.059
+Afghanistan,2017,Southern Asia,141,3.794,0.401,0.582,0.181,0.106,0.312,0.061
+Afghanistan,2018,Southern Asia,145,3.632,0.332,0.537,0.255,0.085,0.191,0.036
+Afghanistan,2022,Southern Asia,146,2.404,0.758,0.000,0.289,0.000,0.089,0.005
+Afghanistan,2021,Southern Asia,149,2.523,0.370,0.000,0.126,0.000,0.122,0.010
+Afghanistan,2020,Southern Asia,153,2.567,0.301,0.356,0.266,0.000,0.135,0.001
+Afghanistan,2015,Southern Asia,153,3.575,0.320,0.303,0.303,0.234,0.365,0.097
+Afghanistan,2016,Southern Asia,154,3.360,0.382,0.110,0.173,0.164,0.313,0.071
+Afghanistan,2019,Southern Asia,154,3.203,0.350,0.517,0.361,0.000,0.158,0.025
+Albania,2023,Central and Eastern Europe,83,5.277,1.449,0.951,0.480,0.549,0.133,0.037
+Albania,2022,Central and Eastern Europe,90,5.199,1.439,0.646,0.719,0.511,0.138,0.028
+Albania,2021,Central and Eastern Europe,93,5.117,1.008,0.529,0.646,0.491,0.168,0.024
+Albania,2015,Central and Eastern Europe,95,4.959,0.879,0.804,0.813,0.357,0.143,0.064
+Albania,2020,Central and Eastern Europe,105,4.883,0.907,0.830,0.846,0.462,0.171,0.025
+Albania,2019,Central and Eastern Europe,107,4.719,0.947,0.848,0.874,0.383,0.178,0.027
+Albania,2016,Central and Eastern Europe,109,4.655,0.955,0.502,0.730,0.319,0.168,0.053
+Albania,2017,Central and Eastern Europe,109,4.644,0.996,0.804,0.731,0.381,0.201,0.040
+Albania,2018,Central and Eastern Europe,112,4.586,0.916,0.817,0.790,0.419,0.149,0.032
+Algeria,2016,Middle East and Northern Africa,38,6.355,1.053,0.833,0.618,0.210,0.070,0.162
+Algeria,2017,Middle East and Northern Africa,53,5.872,1.092,1.146,0.618,0.233,0.069,0.146
+Algeria,2015,Middle East and Northern Africa,68,5.605,0.939,1.078,0.618,0.286,0.078,0.174
+Algeria,2023,Middle East and Northern Africa,81,5.329,1.353,1.298,0.409,0.252,0.073,0.152
+Algeria,2018,Middle East and Northern Africa,84,5.295,0.979,1.154,0.687,0.077,0.055,0.135
+Algeria,2019,Middle East and Northern Africa,88,5.211,1.002,1.160,0.785,0.086,0.073,0.114
+Algeria,2022,Middle East and Northern Africa,96,5.122,1.363,0.970,0.643,0.146,0.106,0.150
+Algeria,2020,Middle East and Northern Africa,100,5.005,0.944,1.143,0.745,0.084,0.119,0.129
+Algeria,2021,Middle East and Northern Africa,109,4.887,0.946,0.765,0.552,0.119,0.144,0.120
+Angola,2015,Sub-Saharan Africa,137,4.033,0.758,0.860,0.167,0.104,0.123,0.071
+Angola,2017,Sub-Saharan Africa,140,3.795,0.858,1.104,0.050,0.000,0.098,0.070
+Angola,2016,Sub-Saharan Africa,141,3.866,0.847,0.664,0.050,0.006,0.121,0.084
+Angola,2018,Sub-Saharan Africa,142,3.795,0.730,1.125,0.269,0.000,0.079,0.061
+Argentina,2017,Latin America and Caribbean,24,6.599,1.185,1.440,0.695,0.495,0.109,0.060
+Argentina,2016,Latin America and Caribbean,26,6.650,1.151,1.066,0.697,0.423,0.110,0.073
+Argentina,2018,Latin America and Caribbean,29,6.388,1.073,1.468,0.744,0.570,0.062,0.054
+Argentina,2015,Latin America and Caribbean,30,6.574,1.054,1.248,0.787,0.450,0.115,0.085
+Argentina,2019,Latin America and Caribbean,47,6.086,1.092,1.432,0.881,0.471,0.066,0.050
+Argentina,2023,Latin America and Caribbean,52,6.024,1.590,1.388,0.427,0.587,0.088,0.082
+Argentina,2020,Latin America and Caribbean,55,5.975,1.028,1.373,0.850,0.521,0.070,0.060
+Argentina,2021,Latin America and Caribbean,57,5.929,1.162,0.980,0.646,0.544,0.069,0.067
+Argentina,2022,Latin America and Caribbean,57,5.967,1.592,1.102,0.662,0.555,0.081,0.085
+Armenia,2023,Central and Eastern Europe,79,5.342,1.466,1.134,0.443,0.551,0.053,0.160
+Armenia,2022,Central and Eastern Europe,82,5.399,1.434,0.820,0.668,0.558,0.054,0.210
+Armenia,2021,Central and Eastern Europe,86,5.283,0.996,0.758,0.585,0.540,0.079,0.198
+Armenia,2019,Central and Eastern Europe,116,4.559,0.850,1.055,0.815,0.283,0.095,0.064
+Armenia,2020,Central and Eastern Europe,116,4.677,0.808,1.035,0.776,0.378,0.107,0.105
+Armenia,2016,Central and Eastern Europe,121,4.360,0.861,0.625,0.641,0.140,0.078,0.036
+Armenia,2017,Central and Eastern Europe,121,4.376,0.901,1.007,0.638,0.198,0.083,0.027
+Armenia,2015,Central and Eastern Europe,127,4.350,0.768,0.777,0.730,0.198,0.079,0.039
+Armenia,2018,Central and Eastern Europe,129,4.321,0.816,0.990,0.666,0.260,0.077,0.028
+Australia,2016,Australia and New Zealand,9,7.313,1.444,1.105,0.851,0.568,0.474,0.323
+Australia,2017,Australia and New Zealand,10,7.284,1.484,1.510,0.844,0.602,0.478,0.301
+Australia,2018,Australia and New Zealand,10,7.272,1.340,1.573,0.910,0.647,0.361,0.302
+Australia,2015,Australia and New Zealand,10,7.284,1.334,1.309,0.932,0.651,0.436,0.356
+Australia,2019,Australia and New Zealand,11,7.228,1.372,1.548,1.036,0.557,0.332,0.290
+Australia,2021,Australia and New Zealand,11,7.183,1.453,1.076,0.801,0.647,0.291,0.317
+Australia,2020,Australia and New Zealand,12,7.223,1.310,1.477,1.023,0.622,0.325,0.336
+Australia,2022,Australia and New Zealand,12,7.162,1.900,1.203,0.772,0.676,0.258,0.341
+Australia,2023,Australia and New Zealand,12,7.095,1.899,1.497,0.532,0.677,0.242,0.310
+Austria,2020,Western Europe,9,7.294,1.317,1.437,1.001,0.603,0.256,0.281
+Austria,2019,Western Europe,10,7.246,1.376,1.475,1.016,0.532,0.244,0.226
+Austria,2021,Western Europe,10,7.268,1.492,1.062,0.782,0.640,0.215,0.292
+Austria,2022,Western Europe,11,7.163,1.931,1.165,0.774,0.623,0.193,0.329
+Austria,2023,Western Europe,11,7.097,1.927,1.382,0.535,0.630,0.191,0.310
+Austria,2016,Western Europe,12,7.119,1.450,1.084,0.806,0.544,0.329,0.213
+Austria,2018,Western Europe,12,7.139,1.341,1.504,0.891,0.617,0.242,0.224
+Austria,2017,Western Europe,13,7.006,1.487,1.460,0.815,0.568,0.316,0.221
+Austria,2015,Western Europe,13,7.200,1.337,1.297,0.890,0.624,0.331,0.187
+Azerbaijan,2015,Central and Eastern Europe,80,5.212,1.024,0.938,0.640,0.370,0.078,0.161
+Azerbaijan,2016,Central and Eastern Europe,81,5.291,1.124,0.760,0.545,0.353,0.056,0.179
+Azerbaijan,2017,Central and Eastern Europe,85,5.234,1.154,1.152,0.541,0.398,0.045,0.181
+Azerbaijan,2018,Central and Eastern Europe,87,5.201,1.024,1.161,0.603,0.430,0.031,0.176
+Azerbaijan,2020,Central and Eastern Europe,89,5.165,0.990,1.181,0.731,0.468,0.040,0.247
+Azerbaijan,2019,Central and Eastern Europe,90,5.208,1.043,1.147,0.769,0.351,0.035,0.182
+Azerbaijan,2021,Central and Eastern Europe,90,5.171,1.025,0.841,0.541,0.526,0.043,0.276
+Azerbaijan,2022,Central and Eastern Europe,92,5.173,1.458,1.093,0.560,0.601,0.023,0.341
+Bahrain,2022,Middle East and Northern Africa,21,6.647,1.854,1.029,0.625,0.693,0.199,0.155
+Bahrain,2021,Middle East and Northern Africa,22,6.647,1.409,0.899,0.662,0.661,0.246,0.139
+Bahrain,2019,Middle East and Northern Africa,37,6.199,1.362,1.368,0.871,0.536,0.255,0.110
+Bahrain,2020,Middle East and Northern Africa,40,6.227,1.297,1.315,0.839,0.610,0.287,0.127
+Bahrain,2017,Middle East and Northern Africa,41,6.087,1.488,1.323,0.653,0.537,0.173,0.257
+Bahrain,2016,Middle East and Northern Africa,42,6.218,1.440,0.944,0.657,0.474,0.171,0.258
+Bahrain,2023,Middle East and Northern Africa,42,6.173,1.883,1.269,0.389,0.748,0.199,0.138
+Bahrain,2018,Middle East and Northern Africa,43,6.105,1.338,1.366,0.698,0.594,0.243,0.123
+Bahrain,2015,Middle East and Northern Africa,49,5.960,1.324,1.216,0.747,0.455,0.174,0.306
+Bangladesh,2022,Southern Asia,94,5.155,1.060,0.614,0.581,0.622,0.125,0.187
+Bangladesh,2021,Southern Asia,101,5.025,0.635,0.520,0.514,0.603,0.161,0.164
+Bangladesh,2020,Southern Asia,107,4.833,0.556,0.869,0.695,0.604,0.177,0.177
+Bangladesh,2015,Southern Asia,109,4.694,0.398,0.431,0.602,0.408,0.212,0.126
+Bangladesh,2016,Southern Asia,110,4.643,0.542,0.247,0.530,0.398,0.191,0.126
+Bangladesh,2017,Southern Asia,110,4.608,0.587,0.735,0.533,0.478,0.172,0.124
+Bangladesh,2018,Southern Asia,115,4.500,0.532,0.850,0.579,0.580,0.153,0.144
+Bangladesh,2023,Southern Asia,118,4.282,1.133,0.513,0.355,0.617,0.139,0.165
+Bangladesh,2019,Southern Asia,125,4.456,0.562,0.928,0.723,0.527,0.166,0.143
+Belarus,2015,Central and Eastern Europe,59,5.813,1.032,1.233,0.736,0.379,0.110,0.191
+Belarus,2016,Central and Eastern Europe,61,5.802,1.131,1.050,0.631,0.291,0.139,0.175
+Belarus,2022,Central and Eastern Europe,65,5.821,1.562,1.157,0.629,0.342,0.040,0.282
+Belarus,2017,Central and Eastern Europe,67,5.569,1.157,1.445,0.638,0.295,0.155,0.156
+Belarus,2018,Central and Eastern Europe,73,5.483,1.039,1.498,0.700,0.307,0.101,0.154
+Belarus,2020,Central and Eastern Europe,75,5.540,1.019,1.387,0.753,0.291,0.090,0.194
+Belarus,2021,Central and Eastern Europe,75,5.534,1.124,1.007,0.560,0.326,0.070,0.199
+Belarus,2019,Central and Eastern Europe,81,5.323,1.067,1.465,0.789,0.235,0.094,0.142
+Belgium,2018,Western Europe,16,6.927,1.324,1.483,0.894,0.583,0.188,0.240
+Belgium,2017,Western Europe,17,6.891,1.464,1.462,0.818,0.540,0.232,0.251
+Belgium,2023,Western Europe,17,6.859,1.907,1.449,0.528,0.590,0.137,0.273
+Belgium,2016,Western Europe,18,6.929,1.425,1.052,0.820,0.514,0.242,0.262
+Belgium,2019,Western Europe,18,6.923,1.356,1.504,0.986,0.473,0.160,0.210
+Belgium,2022,Western Europe,19,6.805,1.907,1.106,0.764,0.492,0.049,0.204
+Belgium,2015,Western Europe,19,6.937,1.308,1.286,0.897,0.585,0.223,0.225
+Belgium,2020,Western Europe,20,6.864,1.296,1.399,0.965,0.500,0.147,0.209
+Belgium,2021,Western Europe,20,6.834,1.463,0.998,0.747,0.489,0.088,0.187
+Belize,2018,Latin America and Caribbean,49,5.956,0.807,1.101,0.474,0.593,0.183,0.089
+Belize,2017,Latin America and Caribbean,50,5.956,0.908,1.081,0.450,0.548,0.240,0.097
+Belize,2016,Latin America and Caribbean,52,5.956,0.876,0.687,0.456,0.512,0.237,0.108
+Benin,2020,Sub-Saharan Africa,86,5.216,0.366,0.352,0.328,0.406,0.197,0.126
+Benin,2021,Sub-Saharan Africa,99,5.045,0.507,0.058,0.196,0.457,0.166,0.178
+Benin,2019,Sub-Saharan Africa,102,4.883,0.393,0.437,0.397,0.349,0.175,0.082
+Benin,2022,Sub-Saharan Africa,115,4.623,0.932,0.064,0.335,0.479,0.127,0.230
+Benin,2023,Sub-Saharan Africa,116,4.374,0.924,0.242,0.124,0.481,0.114,0.253
+Benin,2018,Sub-Saharan Africa,136,4.141,0.378,0.372,0.240,0.440,0.163,0.067
+Benin,2017,Sub-Saharan Africa,143,3.657,0.431,0.435,0.210,0.426,0.208,0.061
+Benin,2016,Sub-Saharan Africa,153,3.484,0.395,0.104,0.210,0.397,0.202,0.067
+Benin,2015,Sub-Saharan Africa,155,3.340,0.287,0.354,0.319,0.485,0.183,0.080
+Bhutan,2015,Southern Asia,79,5.253,0.770,1.104,0.574,0.532,0.480,0.154
+Bhutan,2016,Southern Asia,84,5.196,0.853,0.908,0.498,0.461,0.485,0.162
+Bhutan,2019,Southern Asia,95,5.082,0.813,1.321,0.604,0.457,0.370,0.167
+Bhutan,2017,Southern Asia,97,5.011,0.885,1.340,0.496,0.502,0.474,0.173
+Bhutan,2018,Southern Asia,97,5.082,0.796,1.335,0.527,0.541,0.364,0.171
+Bolivia,2015,Latin America and Caribbean,51,5.890,0.681,0.978,0.539,0.574,0.205,0.088
+Bolivia,2017,Latin America and Caribbean,58,5.823,0.834,1.228,0.474,0.559,0.226,0.060
+Bolivia,2016,Latin America and Caribbean,59,5.822,0.794,0.838,0.470,0.510,0.217,0.077
+Bolivia,2019,Latin America and Caribbean,61,5.779,0.776,1.209,0.706,0.511,0.137,0.064
+Bolivia,2018,Latin America and Caribbean,62,5.752,0.751,1.223,0.508,0.606,0.141,0.054
+Bolivia,2020,Latin America and Caribbean,65,5.747,0.731,1.142,0.662,0.574,0.138,0.073
+Bolivia,2021,Latin America and Caribbean,69,5.716,0.842,0.782,0.486,0.600,0.138,0.064
+Bolivia,2023,Latin America and Caribbean,69,5.684,1.240,1.187,0.329,0.648,0.103,0.060
+Bolivia,2022,Latin America and Caribbean,71,5.600,1.256,0.880,0.555,0.627,0.112,0.064
+Bosnia and Herzegovina,2021,Central and Eastern Europe,64,5.813,1.032,0.919,0.618,0.395,0.261,0.005
+Bosnia and Herzegovina,2022,Central and Eastern Europe,67,5.768,1.468,1.068,0.665,0.448,0.244,0.006
+Bosnia and Herzegovina,2020,Central and Eastern Europe,69,5.674,0.918,1.204,0.814,0.305,0.264,0.001
+Bosnia and Herzegovina,2023,Central and Eastern Europe,71,5.633,1.467,1.361,0.429,0.485,0.247,0.008
+Bosnia and Herzegovina,2019,Central and Eastern Europe,78,5.386,0.945,1.212,0.845,0.212,0.263,0.006
+Bosnia and Herzegovina,2016,Central and Eastern Europe,87,5.163,0.934,0.644,0.708,0.095,0.299,0.000
+Bosnia and Herzegovina,2017,Central and Eastern Europe,90,5.182,0.982,1.069,0.705,0.204,0.329,0.000
+Bosnia and Herzegovina,2018,Central and Eastern Europe,93,5.129,0.915,1.078,0.758,0.280,0.216,0.000
+Bosnia and Herzegovina,2015,Central and Eastern Europe,96,4.949,0.832,0.919,0.791,0.092,0.248,0.002
+Botswana,2015,Sub-Saharan Africa,128,4.332,0.994,1.105,0.048,0.495,0.105,0.125
+Botswana,2023,Sub-Saharan Africa,132,3.435,1.471,1.041,0.087,0.480,0.021,0.071
+Botswana,2016,Sub-Saharan Africa,137,3.974,1.094,0.892,0.348,0.441,0.124,0.108
+Botswana,2017,Sub-Saharan Africa,142,3.766,1.122,1.222,0.342,0.505,0.099,0.099
+Botswana,2022,Sub-Saharan Africa,142,3.471,1.503,0.815,0.280,0.571,0.012,0.102
+Botswana,2018,Sub-Saharan Africa,146,3.590,1.017,1.174,0.417,0.557,0.042,0.092
+Botswana,2021,Sub-Saharan Africa,146,3.467,1.099,0.724,0.340,0.539,0.027,0.088
+Botswana,2020,Sub-Saharan Africa,147,3.479,0.998,1.086,0.494,0.509,0.033,0.102
+Botswana,2019,Sub-Saharan Africa,148,3.488,1.041,1.145,0.538,0.455,0.025,0.100
+Brazil,2015,Latin America and Caribbean,16,6.983,0.981,1.233,0.697,0.490,0.146,0.175
+Brazil,2016,Latin America and Caribbean,17,6.952,1.088,1.039,0.614,0.404,0.158,0.142
+Brazil,2017,Latin America and Caribbean,22,6.635,1.107,1.431,0.617,0.437,0.162,0.111
+Brazil,2018,Latin America and Caribbean,28,6.419,0.986,1.474,0.675,0.493,0.110,0.088
+Brazil,2019,Latin America and Caribbean,32,6.300,1.004,1.439,0.802,0.390,0.099,0.086
+Brazil,2020,Latin America and Caribbean,32,6.376,0.953,1.363,0.766,0.483,0.132,0.107
+Brazil,2021,Latin America and Caribbean,35,6.330,1.028,0.944,0.571,0.514,0.142,0.117
+Brazil,2022,Latin America and Caribbean,38,6.293,1.462,1.044,0.615,0.546,0.131,0.134
+Brazil,2023,Latin America and Caribbean,49,6.125,1.454,1.250,0.387,0.558,0.131,0.137
+Bulgaria,2023,Central and Eastern Europe,77,5.466,1.635,1.457,0.408,0.557,0.106,0.013
+Bulgaria,2022,Central and Eastern Europe,85,5.371,1.625,1.163,0.640,0.563,0.123,0.021
+Bulgaria,2021,Central and Eastern Europe,88,5.266,1.181,1.055,0.583,0.494,0.125,0.005
+Bulgaria,2020,Central and Eastern Europe,96,5.102,1.047,1.461,0.778,0.418,0.104,0.000
+Bulgaria,2019,Central and Eastern Europe,97,5.011,1.092,1.513,0.815,0.311,0.081,0.004
+Bulgaria,2018,Central and Eastern Europe,100,4.933,1.054,1.515,0.712,0.359,0.064,0.009
+Bulgaria,2017,Central and Eastern Europe,105,4.714,1.161,1.434,0.708,0.289,0.113,0.011
+Bulgaria,2016,Central and Eastern Europe,129,4.217,1.113,0.925,0.678,0.212,0.128,0.006
+Bulgaria,2015,Central and Eastern Europe,134,4.218,1.012,1.106,0.766,0.306,0.119,0.009
+Burkina Faso,2023,Sub-Saharan Africa,104,4.638,0.768,0.814,0.107,0.419,0.188,0.113
+Burkina Faso,2020,Sub-Saharan Africa,112,4.769,0.302,0.929,0.313,0.322,0.186,0.126
+Burkina Faso,2021,Sub-Saharan Africa,113,4.834,0.364,0.472,0.179,0.381,0.182,0.122
+Burkina Faso,2022,Sub-Saharan Africa,113,4.670,0.779,0.565,0.320,0.382,0.186,0.126
+Burkina Faso,2019,Sub-Saharan Africa,115,4.587,0.331,1.056,0.380,0.255,0.177,0.113
+Burkina Faso,2018,Sub-Saharan Africa,121,4.424,0.314,1.097,0.254,0.312,0.175,0.128
+Burkina Faso,2017,Sub-Saharan Africa,134,4.032,0.350,1.043,0.216,0.324,0.251,0.120
+Burkina Faso,2016,Sub-Saharan Africa,145,3.739,0.320,0.631,0.213,0.334,0.244,0.125
+Burkina Faso,2015,Sub-Saharan Africa,152,3.587,0.258,0.852,0.271,0.395,0.217,0.128
+Burundi,2020,Sub-Saharan Africa,140,3.775,0.000,0.404,0.295,0.275,0.187,0.212
+Burundi,2021,Sub-Saharan Africa,140,3.775,0.000,0.062,0.155,0.298,0.172,0.212
+Burundi,2019,Sub-Saharan Africa,145,3.775,0.046,0.447,0.380,0.220,0.176,0.180
+Burundi,2017,Sub-Saharan Africa,154,2.905,0.092,0.630,0.152,0.060,0.204,0.084
+Burundi,2018,Sub-Saharan Africa,156,2.905,0.091,0.627,0.145,0.065,0.149,0.076
+Burundi,2016,Sub-Saharan Africa,157,2.905,0.068,0.234,0.157,0.043,0.203,0.094
+Burundi,2015,Sub-Saharan Africa,157,2.905,0.015,0.416,0.224,0.119,0.197,0.101
+Cambodia,2020,Southeastern Asia,106,4.848,0.545,1.071,0.588,0.675,0.233,0.073
+Cambodia,2019,Southeastern Asia,109,4.700,0.574,1.122,0.637,0.609,0.232,0.062
+Cambodia,2021,Southeastern Asia,114,4.830,0.603,0.680,0.426,0.702,0.210,0.061
+Cambodia,2022,Southeastern Asia,114,4.640,1.019,0.732,0.505,0.740,0.166,0.068
+Cambodia,2023,Southeastern Asia,115,4.393,1.025,1.024,0.283,0.768,0.176,0.051
+Cambodia,2018,Southeastern Asia,120,4.433,0.549,1.088,0.457,0.696,0.256,0.065
+Cambodia,2017,Southeastern Asia,129,4.168,0.602,1.006,0.430,0.633,0.386,0.068
+Cambodia,2016,Southeastern Asia,140,3.907,0.556,0.538,0.425,0.589,0.403,0.081
+Cambodia,2015,Southeastern Asia,145,3.819,0.460,0.627,0.611,0.662,0.404,0.072
+Cameroon,2021,Sub-Saharan Africa,91,5.142,0.543,0.556,0.159,0.425,0.205,0.058
+Cameroon,2019,Sub-Saharan Africa,96,5.044,0.549,0.910,0.331,0.381,0.187,0.037
+Cameroon,2023,Sub-Saharan Africa,96,4.973,0.965,0.871,0.118,0.405,0.144,0.059
+Cameroon,2020,Sub-Saharan Africa,98,5.085,0.504,0.900,0.270,0.439,0.198,0.054
+Cameroon,2018,Sub-Saharan Africa,99,4.975,0.535,0.891,0.182,0.454,0.183,0.043
+Cameroon,2022,Sub-Saharan Africa,102,5.048,0.968,0.672,0.317,0.397,0.152,0.074
+Cameroon,2017,Sub-Saharan Africa,107,4.695,0.564,0.946,0.133,0.430,0.236,0.051
+Cameroon,2016,Sub-Saharan Africa,114,4.513,0.525,0.625,0.127,0.427,0.227,0.061
+Cameroon,2015,Sub-Saharan Africa,133,4.252,0.423,0.888,0.234,0.493,0.206,0.058
+Canada,2015,North America,5,7.427,1.326,1.323,0.906,0.633,0.458,0.330
+Canada,2016,North America,6,7.404,1.440,1.096,0.828,0.574,0.448,0.313
+Canada,2017,North America,7,7.316,1.479,1.481,0.835,0.611,0.436,0.287
+Canada,2018,North America,7,7.328,1.330,1.532,0.896,0.653,0.321,0.291
+Canada,2019,North America,9,7.278,1.365,1.505,1.039,0.584,0.285,0.308
+Canada,2020,North America,11,7.232,1.302,1.435,1.023,0.644,0.282,0.352
+Canada,2023,North America,13,6.961,1.881,1.484,0.541,0.656,0.218,0.364
+Canada,2021,North America,14,7.103,1.447,1.044,0.798,0.648,0.246,0.335
+Canada,2022,North America,15,7.025,1.886,1.188,0.783,0.659,0.217,0.368
+Central African Republic,2015,Sub-Saharan Africa,148,3.678,0.079,0.000,0.067,0.489,0.238,0.083
+Central African Republic,2020,Sub-Saharan Africa,149,3.476,0.041,0.000,0.000,0.293,0.254,0.028
+Central African Republic,2017,Sub-Saharan Africa,155,2.693,0.000,0.000,0.019,0.271,0.281,0.057
+Central African Republic,2018,Sub-Saharan Africa,155,3.083,0.024,0.000,0.010,0.305,0.218,0.038
+Central African Republic,2019,Sub-Saharan Africa,155,3.083,0.026,0.000,0.105,0.225,0.235,0.035
+Chad,2023,Sub-Saharan Africa,114,4.397,0.622,0.962,0.043,0.393,0.255,0.088
+Chad,2020,Sub-Saharan Africa,127,4.423,0.302,0.739,0.109,0.229,0.211,0.086
+Chad,2021,Sub-Saharan Africa,128,4.355,0.255,0.353,0.000,0.240,0.215,0.084
+Chad,2022,Sub-Saharan Africa,130,4.251,0.662,0.506,0.225,0.180,0.182,0.077
+Chad,2018,Sub-Saharan Africa,131,4.301,0.358,0.907,0.053,0.189,0.181,0.060
+Chad,2019,Sub-Saharan Africa,132,4.350,0.350,0.766,0.192,0.174,0.198,0.078
+Chad,2017,Sub-Saharan Africa,137,3.936,0.438,0.954,0.041,0.162,0.216,0.054
+Chad,2016,Sub-Saharan Africa,144,3.763,0.422,0.632,0.038,0.128,0.187,0.050
+Chad,2015,Sub-Saharan Africa,149,3.667,0.342,0.761,0.150,0.235,0.184,0.053
+Chile,2017,Latin America and Caribbean,20,6.652,1.253,1.284,0.819,0.377,0.327,0.082
+Chile,2016,Latin America and Caribbean,24,6.705,1.217,0.906,0.819,0.378,0.316,0.115
+Chile,2018,Latin America and Caribbean,25,6.476,1.131,1.331,0.808,0.431,0.197,0.061
+Chile,2019,Latin America and Caribbean,26,6.444,1.159,1.369,0.920,0.357,0.187,0.056
+Chile,2015,Latin America and Caribbean,27,6.670,1.107,1.124,0.859,0.441,0.334,0.129
+Chile,2023,Latin America and Caribbean,35,6.334,1.645,1.384,0.511,0.546,0.131,0.076
+Chile,2020,Latin America and Caribbean,39,6.228,1.097,1.323,0.889,0.417,0.156,0.063
+Chile,2021,Latin America and Caribbean,43,6.172,1.200,0.946,0.678,0.438,0.159,0.070
+Chile,2022,Latin America and Caribbean,44,6.172,1.651,1.080,0.748,0.460,0.124,0.069
+China,2023,Eastern Asia,64,5.818,1.510,1.249,0.468,0.666,0.115,0.145
+China,2022,Eastern Asia,72,5.585,1.508,0.958,0.705,0.656,0.099,0.142
+China,2017,Eastern Asia,79,5.273,1.081,1.161,0.741,0.473,0.029,0.023
+China,2016,Eastern Asia,83,5.245,1.028,0.794,0.736,0.440,0.050,0.027
+China,2021,Eastern Asia,84,5.339,1.061,0.785,0.665,0.636,0.093,0.117
+China,2015,Eastern Asia,84,5.140,0.890,0.947,0.817,0.517,0.082,0.028
+China,2018,Eastern Asia,86,5.246,0.989,1.142,0.799,0.597,0.029,0.103
+China,2019,Eastern Asia,93,5.191,1.029,1.125,0.893,0.521,0.058,0.100
+China,2020,Eastern Asia,94,5.124,0.991,1.132,0.867,0.602,0.079,0.117
+Colombia,2016,Latin America and Caribbean,31,6.481,1.030,1.022,0.597,0.447,0.156,0.054
+Colombia,2015,Latin America and Caribbean,33,6.477,0.919,1.240,0.691,0.535,0.184,0.051
+Colombia,2017,Latin America and Caribbean,36,6.357,1.071,1.402,0.595,0.477,0.149,0.047
+Colombia,2018,Latin America and Caribbean,37,6.260,0.960,1.439,0.635,0.531,0.099,0.039
+Colombia,2019,Latin America and Caribbean,43,6.125,0.985,1.410,0.841,0.470,0.099,0.034
+Colombia,2020,Latin America and Caribbean,44,6.163,0.932,1.334,0.810,0.527,0.092,0.046
+Colombia,2021,Latin America and Caribbean,52,6.012,1.021,0.866,0.615,0.554,0.100,0.063
+Colombia,2022,Latin America and Caribbean,66,5.781,1.452,0.929,0.720,0.545,0.087,0.077
+Colombia,2023,Latin America and Caribbean,72,5.630,1.455,1.213,0.486,0.562,0.080,0.068
+Comoros,2022,Sub-Saharan Africa,116,4.609,0.899,0.476,0.424,0.185,0.195,0.125
+Comoros,2023,Sub-Saharan Africa,130,3.545,0.914,0.327,0.215,0.117,0.129,0.145
+Comoros,2021,Sub-Saharan Africa,131,4.289,0.488,0.367,0.279,0.202,0.241,0.101
+Comoros,2020,Sub-Saharan Africa,134,4.289,0.416,0.723,0.437,0.181,0.259,0.100
+Comoros,2016,Sub-Saharan Africa,138,3.956,0.275,0.603,0.300,0.154,0.183,0.184
+Comoros,2015,Sub-Saharan Africa,140,3.956,0.239,0.793,0.363,0.229,0.174,0.199
+Comoros,2019,Sub-Saharan Africa,142,3.973,0.274,0.757,0.505,0.142,0.275,0.078
+Congo (Brazzaville),2021,Sub-Saharan Africa,83,5.342,0.518,0.392,0.307,0.381,0.144,0.124
+Congo (Brazzaville),2023,Sub-Saharan Africa,86,5.267,0.921,0.665,0.145,0.464,0.134,0.136
+Congo (Brazzaville),2020,Sub-Saharan Africa,88,5.194,0.634,0.758,0.458,0.387,0.117,0.119
+Congo (Brazzaville),2022,Sub-Saharan Africa,99,5.075,0.950,0.405,0.355,0.431,0.130,0.146
+Congo (Brazzaville),2019,Sub-Saharan Africa,103,4.812,0.673,0.799,0.508,0.372,0.105,0.093
+Congo (Brazzaville),2018,Sub-Saharan Africa,114,4.559,0.682,0.811,0.343,0.514,0.091,0.077
+Congo (Brazzaville),2017,Sub-Saharan Africa,124,4.291,0.809,0.832,0.290,0.435,0.121,0.080
+Congo (Brazzaville),2016,Sub-Saharan Africa,127,4.236,0.771,0.478,0.282,0.379,0.121,0.098
+Congo (Brazzaville),2015,Sub-Saharan Africa,139,3.989,0.679,0.663,0.311,0.415,0.124,0.117
+Congo (Kinshasa),2015,Sub-Saharan Africa,120,4.517,0.000,1.001,0.098,0.226,0.248,0.076
+Congo (Kinshasa),2016,Sub-Saharan Africa,125,4.272,0.057,0.807,0.188,0.156,0.255,0.061
+Congo (Kinshasa),2017,Sub-Saharan Africa,126,4.280,0.092,1.229,0.191,0.236,0.246,0.060
+Congo (Kinshasa),2019,Sub-Saharan Africa,127,4.418,0.094,1.125,0.357,0.269,0.212,0.053
+Congo (Kinshasa),2020,Sub-Saharan Africa,131,4.311,0.062,0.833,0.277,0.365,0.254,0.081
+Congo (Kinshasa),2018,Sub-Saharan Africa,132,4.245,0.069,1.136,0.204,0.312,0.197,0.052
+Congo (Kinshasa),2023,Sub-Saharan Africa,133,3.207,0.531,0.784,0.105,0.375,0.183,0.068
+Costa Rica,2015,Latin America and Caribbean,12,7.226,0.956,1.238,0.860,0.634,0.255,0.106
+Costa Rica,2017,Latin America and Caribbean,12,7.079,1.110,1.416,0.760,0.580,0.215,0.100
+Costa Rica,2019,Latin America and Caribbean,12,7.167,1.034,1.441,0.963,0.558,0.144,0.093
+Costa Rica,2018,Latin America and Caribbean,13,7.072,1.010,1.459,0.817,0.632,0.143,0.101
+Costa Rica,2016,Latin America and Caribbean,14,7.087,1.069,1.022,0.761,0.552,0.226,0.105
+Costa Rica,2020,Latin America and Caribbean,15,7.121,0.981,1.375,0.940,0.645,0.131,0.096
+Costa Rica,2021,Latin America and Caribbean,16,7.069,1.134,0.966,0.722,0.673,0.105,0.083
+Costa Rica,2022,Latin America and Caribbean,23,6.582,1.584,1.054,0.744,0.661,0.089,0.102
+Costa Rica,2023,Latin America and Caribbean,23,6.609,1.587,1.340,0.503,0.683,0.099,0.116
+Croatia,2022,Central and Eastern Europe,47,6.125,1.705,1.183,0.709,0.535,0.109,0.000
+Croatia,2023,Central and Eastern Europe,48,6.125,1.727,1.455,0.475,0.500,0.087,0.003
+Croatia,2021,Central and Eastern Europe,60,5.882,1.251,1.039,0.703,0.453,0.111,0.000
+Croatia,2015,Central and Eastern Europe,62,5.759,1.083,0.796,0.788,0.259,0.054,0.024
+Croatia,2016,Central and Eastern Europe,74,5.488,1.186,0.608,0.705,0.239,0.184,0.040
+Croatia,2019,Central and Eastern Europe,75,5.432,1.155,1.266,0.914,0.296,0.119,0.022
+Croatia,2017,Central and Eastern Europe,77,5.293,1.223,0.968,0.701,0.256,0.248,0.043
+Croatia,2020,Central and Eastern Europe,79,5.505,1.109,1.311,0.901,0.381,0.114,0.012
+Croatia,2018,Central and Eastern Europe,82,5.321,1.115,1.161,0.737,0.380,0.120,0.039
+Cyprus,2021,Western Europe,39,6.223,1.377,0.765,0.801,0.464,0.178,0.061
+Cyprus,2022,Western Europe,41,6.221,1.815,0.909,0.819,0.448,0.123,0.062
+Cyprus,2020,Western Europe,45,6.159,1.213,1.149,1.026,0.459,0.228,0.051
+Cyprus,2023,Western Europe,46,6.130,1.824,1.224,0.580,0.455,0.104,0.050
+Cyprus,2019,Western Europe,49,6.046,1.263,1.223,1.042,0.406,0.190,0.041
+Cyprus,2018,Western Europe,61,5.762,1.229,1.191,0.909,0.423,0.202,0.035
+Cyprus,2017,Western Europe,65,5.621,1.356,1.131,0.845,0.355,0.271,0.041
+Cyprus,2015,Western Europe,67,5.689,1.208,0.893,0.924,0.407,0.306,0.061
+Cyprus,2016,Western Europe,69,5.546,1.319,0.707,0.849,0.295,0.279,0.052
+Czech Republic,2021,Central and Eastern Europe,18,6.965,1.370,1.090,0.703,0.580,0.052,0.046
+Czech Republic,2022,Central and Eastern Europe,18,6.920,1.815,1.260,0.715,0.660,0.158,0.048
+Czech Republic,2023,Central and Eastern Europe,18,6.845,1.823,1.544,0.477,0.693,0.158,0.050
+Czech Republic,2020,Central and Eastern Europe,19,6.911,1.212,1.405,0.895,0.506,0.046,0.050
+Czech Republic,2019,Central and Eastern Europe,20,6.852,1.269,1.487,0.920,0.457,0.046,0.036
+Czech Republic,2018,Central and Eastern Europe,21,6.711,1.233,1.489,0.854,0.543,0.064,0.034
+Czech Republic,2017,Central and Eastern Europe,23,6.609,1.353,1.434,0.754,0.491,0.088,0.037
+Czech Republic,2016,Central and Eastern Europe,27,6.596,1.309,1.008,0.764,0.414,0.099,0.040
+Czech Republic,2015,Central and Eastern Europe,31,6.505,1.179,1.206,0.845,0.464,0.107,0.027
+Denmark,2016,Western Europe,1,7.526,1.442,1.164,0.795,0.579,0.362,0.445
+Denmark,2017,Western Europe,2,7.522,1.482,1.551,0.793,0.626,0.355,0.401
+Denmark,2019,Western Europe,2,7.600,1.383,1.573,0.996,0.592,0.252,0.410
+Denmark,2020,Western Europe,2,7.646,1.327,1.503,0.979,0.665,0.243,0.495
+Denmark,2021,Western Europe,2,7.620,1.502,1.108,0.763,0.686,0.208,0.485
+Denmark,2022,Western Europe,2,7.636,1.953,1.243,0.777,0.719,0.188,0.532
+Denmark,2023,Western Europe,2,7.586,1.949,1.548,0.537,0.734,0.208,0.525
+Denmark,2015,Western Europe,3,7.527,1.325,1.361,0.875,0.649,0.341,0.484
+Denmark,2018,Western Europe,3,7.555,1.351,1.590,0.868,0.683,0.284,0.408
+Djibouti,2015,Sub-Saharan Africa,126,4.369,0.440,0.592,0.363,0.461,0.181,0.281
+Dominican Republic,2020,Latin America and Caribbean,68,5.689,0.983,1.329,0.742,0.563,0.112,0.116
+Dominican Republic,2022,Latin America and Caribbean,69,5.737,1.538,1.003,0.577,0.606,0.084,0.179
+Dominican Republic,2021,Latin America and Caribbean,73,5.545,1.106,0.879,0.555,0.581,0.101,0.144
+Dominican Republic,2023,Latin America and Caribbean,73,5.569,1.536,1.227,0.351,0.623,0.083,0.195
+Dominican Republic,2019,Latin America and Caribbean,77,5.425,1.015,1.401,0.779,0.497,0.113,0.101
+Dominican Republic,2018,Latin America and Caribbean,83,5.302,0.982,1.441,0.614,0.578,0.120,0.106
+Dominican Republic,2017,Latin America and Caribbean,86,5.230,1.079,1.402,0.575,0.553,0.187,0.114
+Dominican Republic,2016,Latin America and Caribbean,89,5.155,1.028,0.995,0.577,0.523,0.213,0.124
+Dominican Republic,2015,Latin America and Caribbean,98,4.885,0.895,1.172,0.668,0.577,0.217,0.142
+Ecuador,2017,Latin America and Caribbean,44,6.008,1.001,1.286,0.686,0.455,0.150,0.140
+Ecuador,2018,Latin America and Caribbean,48,5.973,0.889,1.330,0.736,0.556,0.114,0.120
+Ecuador,2015,Latin America and Caribbean,48,5.975,0.864,0.999,0.791,0.486,0.115,0.181
+Ecuador,2019,Latin America and Caribbean,50,6.028,0.912,1.312,0.868,0.498,0.126,0.087
+Ecuador,2016,Latin America and Caribbean,51,5.976,0.973,0.860,0.686,0.403,0.101,0.180
+Ecuador,2020,Latin America and Caribbean,58,5.925,0.853,1.221,0.839,0.555,0.115,0.087
+Ecuador,2021,Latin America and Caribbean,66,5.764,0.935,0.806,0.640,0.560,0.107,0.062
+Ecuador,2023,Latin America and Caribbean,74,5.559,1.343,1.173,0.476,0.560,0.079,0.069
+Ecuador,2022,Latin America and Caribbean,76,5.533,1.352,0.879,0.708,0.565,0.080,0.083
+Egypt,2017,Middle East and Northern Africa,104,4.735,0.990,0.997,0.520,0.282,0.129,0.114
+Egypt,2016,Middle East and Northern Africa,120,4.362,0.954,0.498,0.521,0.188,0.127,0.104
+Egypt,2023,Middle East and Northern Africa,121,4.170,1.377,0.972,0.326,0.467,0.038,0.250
+Egypt,2018,Middle East and Northern Africa,122,4.419,0.885,1.025,0.553,0.312,0.092,0.107
+Egypt,2022,Middle East and Northern Africa,129,4.288,1.388,0.732,0.548,0.469,0.041,0.254
+Egypt,2021,Middle East and Northern Africa,132,4.283,0.954,0.647,0.426,0.446,0.069,0.092
+Egypt,2015,Middle East and Northern Africa,135,4.194,0.882,0.747,0.617,0.173,0.113,0.063
+Egypt,2019,Middle East and Northern Africa,137,4.166,0.913,1.039,0.644,0.241,0.076,0.067
+Egypt,2020,Middle East and Northern Africa,138,4.151,0.875,0.983,0.597,0.374,0.069,0.095
+El Salvador,2020,Latin America and Caribbean,34,6.348,0.749,1.149,0.753,0.524,0.119,0.117
+El Salvador,2019,Latin America and Caribbean,35,6.253,0.794,1.242,0.789,0.430,0.093,0.074
+El Salvador,2018,Latin America and Caribbean,40,6.167,0.806,1.231,0.639,0.461,0.065,0.082
+El Salvador,2015,Latin America and Caribbean,42,6.130,0.765,1.025,0.677,0.404,0.107,0.118
+El Salvador,2017,Latin America and Caribbean,45,6.003,0.910,1.182,0.596,0.432,0.078,0.090
+El Salvador,2016,Latin America and Caribbean,46,6.068,0.874,0.810,0.596,0.373,0.089,0.106
+El Salvador,2021,Latin America and Caribbean,49,6.061,0.845,0.675,0.565,0.615,0.116,0.160
+El Salvador,2022,Latin America and Caribbean,49,6.120,1.265,0.768,0.607,0.666,0.089,0.212
+El Salvador,2023,Latin America and Caribbean,50,6.122,1.278,1.044,0.383,0.713,0.079,0.222
+Estonia,2023,Central and Eastern Europe,31,6.455,1.798,1.526,0.494,0.728,0.153,0.372
+Estonia,2022,Central and Eastern Europe,36,6.341,1.793,1.232,0.728,0.689,0.123,0.333
+Estonia,2021,Central and Eastern Europe,40,6.189,1.344,1.079,0.640,0.641,0.119,0.263
+Estonia,2020,Central and Eastern Europe,51,6.022,1.192,1.453,0.843,0.577,0.125,0.202
+Estonia,2019,Central and Eastern Europe,55,5.893,1.237,1.528,0.874,0.495,0.103,0.161
+Estonia,2018,Central and Eastern Europe,63,5.739,1.200,1.532,0.737,0.553,0.086,0.174
+Estonia,2017,Central and Eastern Europe,66,5.611,1.321,1.477,0.695,0.479,0.099,0.183
+Estonia,2016,Central and Eastern Europe,72,5.517,1.280,1.052,0.681,0.415,0.084,0.185
+Estonia,2015,Central and Eastern Europe,73,5.429,1.152,1.228,0.774,0.449,0.087,0.152
+Eswatini,2022,Sub-Saharan Africa,125,4.396,1.274,0.786,0.197,0.259,0.038,0.154
+Ethiopia,2016,Sub-Saharan Africa,115,4.508,0.293,0.379,0.346,0.367,0.295,0.172
+Ethiopia,2017,Sub-Saharan Africa,119,4.460,0.339,0.865,0.353,0.409,0.313,0.165
+Ethiopia,2015,Sub-Saharan Africa,122,4.512,0.191,0.604,0.441,0.435,0.243,0.150
+Ethiopia,2023,Sub-Saharan Africa,124,4.091,0.793,1.114,0.250,0.451,0.283,0.101
+Ethiopia,2018,Sub-Saharan Africa,127,4.350,0.308,0.950,0.391,0.452,0.220,0.146
+Ethiopia,2022,Sub-Saharan Africa,131,4.241,0.788,0.809,0.457,0.472,0.205,0.136
+Ethiopia,2021,Sub-Saharan Africa,133,4.275,0.370,0.679,0.331,0.451,0.241,0.114
+Ethiopia,2019,Sub-Saharan Africa,134,4.286,0.336,1.033,0.532,0.344,0.209,0.100
+Ethiopia,2020,Sub-Saharan Africa,136,4.186,0.315,1.001,0.484,0.413,0.228,0.117
+Finland,2018,Western Europe,1,7.632,1.305,1.592,0.874,0.681,0.202,0.393
+Finland,2019,Western Europe,1,7.769,1.340,1.587,0.986,0.596,0.153,0.393
+Finland,2020,Western Europe,1,7.809,1.285,1.500,0.961,0.662,0.160,0.478
+Finland,2021,Western Europe,1,7.842,1.446,1.106,0.741,0.691,0.124,0.481
+Finland,2022,Western Europe,1,7.821,1.892,1.258,0.775,0.736,0.109,0.534
+Finland,2023,Western Europe,1,7.804,1.888,1.585,0.535,0.772,0.126,0.535
+Finland,2016,Western Europe,5,7.413,1.406,1.135,0.811,0.571,0.255,0.410
+Finland,2017,Western Europe,5,7.469,1.444,1.540,0.809,0.618,0.245,0.383
+Finland,2015,Western Europe,6,7.406,1.290,1.318,0.889,0.642,0.234,0.414
+France,2022,Western Europe,20,6.687,1.863,1.219,0.808,0.567,0.070,0.266
+France,2021,Western Europe,21,6.690,1.421,1.081,0.804,0.536,0.092,0.235
+France,2023,Western Europe,21,6.661,1.856,1.433,0.566,0.582,0.083,0.270
+France,2018,Western Europe,23,6.489,1.293,1.466,0.908,0.520,0.098,0.176
+France,2020,Western Europe,23,6.664,1.268,1.459,1.030,0.514,0.113,0.227
+France,2019,Western Europe,24,6.592,1.324,1.472,1.045,0.436,0.111,0.183
+France,2015,Western Europe,29,6.575,1.278,1.260,0.946,0.550,0.123,0.206
+France,2017,Western Europe,31,6.442,1.431,1.388,0.844,0.470,0.130,0.173
+France,2016,Western Europe,32,6.478,1.395,1.005,0.838,0.466,0.122,0.178
+Gabon,2023,Sub-Saharan Africa,94,5.035,1.438,1.021,0.183,0.346,0.036,0.102
+Gabon,2018,Sub-Saharan Africa,103,4.758,1.036,1.164,0.404,0.356,0.032,0.052
+Gabon,2019,Sub-Saharan Africa,104,4.799,1.057,1.183,0.571,0.295,0.043,0.055
+Gabon,2022,Sub-Saharan Africa,106,4.958,1.459,0.738,0.396,0.343,0.032,0.099
+Gabon,2020,Sub-Saharan Africa,108,4.829,0.988,1.106,0.523,0.369,0.052,0.056
+Gabon,2021,Sub-Saharan Africa,112,4.852,1.037,0.707,0.362,0.424,0.058,0.064
+Gabon,2017,Sub-Saharan Africa,118,4.465,1.198,1.156,0.357,0.312,0.044,0.076
+Gabon,2016,Sub-Saharan Africa,134,4.121,1.159,0.724,0.349,0.281,0.062,0.093
+Gabon,2015,Sub-Saharan Africa,143,3.896,1.060,0.905,0.434,0.319,0.068,0.111
+Gambia,2022,Sub-Saharan Africa,93,5.164,0.785,0.621,0.369,0.367,0.388,0.103
+Gambia,2021,Sub-Saharan Africa,98,5.051,0.367,0.511,0.210,0.384,0.465,0.123
+Gambia,2020,Sub-Saharan Africa,113,4.751,0.257,0.883,0.353,0.403,0.426,0.158
+Gambia,2023,Sub-Saharan Africa,119,4.279,0.761,0.614,0.174,0.286,0.332,0.033
+Gambia,2019,Sub-Saharan Africa,120,4.516,0.308,0.939,0.428,0.382,0.269,0.167
+Georgia,2023,Central and Eastern Europe,90,5.109,1.477,0.947,0.366,0.539,0.000,0.201
+Georgia,2022,Central and Eastern Europe,105,4.973,1.467,0.612,0.595,0.508,0.000,0.208
+Georgia,2021,Central and Eastern Europe,108,4.891,1.030,0.470,0.498,0.488,0.032,0.181
+Georgia,2020,Central and Eastern Europe,117,4.673,0.847,0.731,0.695,0.485,0.048,0.174
+Georgia,2019,Central and Eastern Europe,119,4.519,0.886,0.666,0.752,0.346,0.043,0.164
+Georgia,2017,Central and Eastern Europe,125,4.286,0.951,0.571,0.650,0.309,0.054,0.252
+Georgia,2016,Central and Eastern Europe,126,4.252,0.838,0.192,0.640,0.325,0.068,0.319
+Georgia,2018,Central and Eastern Europe,128,4.340,0.853,0.592,0.643,0.375,0.038,0.215
+Georgia,2015,Central and Eastern Europe,130,4.297,0.742,0.386,0.729,0.406,0.055,0.383
+Germany,2021,Western Europe,13,7.155,1.480,0.993,0.757,0.600,0.195,0.306
+Germany,2022,Western Europe,14,7.034,1.924,1.088,0.776,0.585,0.163,0.358
+Germany,2018,Western Europe,15,6.965,1.340,1.474,0.861,0.586,0.273,0.280
+Germany,2016,Western Europe,16,6.994,1.448,1.098,0.815,0.535,0.305,0.286
+Germany,2017,Western Europe,16,6.951,1.488,1.473,0.799,0.563,0.336,0.277
+Germany,2023,Western Europe,16,6.892,1.919,1.401,0.539,0.618,0.153,0.365
+Germany,2019,Western Europe,17,6.985,1.373,1.454,0.987,0.495,0.261,0.265
+Germany,2020,Western Europe,17,7.076,1.314,1.369,0.972,0.564,0.252,0.309
+Germany,2015,Western Europe,26,6.750,1.328,1.299,0.892,0.615,0.282,0.218
+Ghana,2020,Sub-Saharan Africa,91,5.148,0.576,0.966,0.432,0.477,0.261,0.057
+Ghana,2021,Sub-Saharan Africa,95,5.088,0.680,0.595,0.287,0.517,0.268,0.058
+Ghana,2019,Sub-Saharan Africa,98,4.996,0.611,0.868,0.486,0.381,0.245,0.040
+Ghana,2023,Sub-Saharan Africa,107,4.605,1.101,0.756,0.197,0.526,0.211,0.035
+Ghana,2018,Sub-Saharan Africa,108,4.657,0.592,0.896,0.337,0.499,0.212,0.029
+Ghana,2022,Sub-Saharan Africa,111,4.872,1.112,0.595,0.409,0.500,0.230,0.056
+Ghana,2015,Sub-Saharan Africa,114,4.633,0.546,0.680,0.401,0.423,0.231,0.044
+Ghana,2016,Sub-Saharan Africa,124,4.276,0.631,0.494,0.297,0.410,0.212,0.033
+Ghana,2017,Sub-Saharan Africa,131,4.120,0.667,0.874,0.296,0.423,0.257,0.025
+Greece,2022,Western Europe,58,5.948,1.703,0.980,0.774,0.249,0.015,0.108
+Greece,2023,Western Europe,58,5.931,1.708,1.247,0.535,0.248,0.008,0.097
+Greece,2021,Western Europe,68,5.723,1.273,0.811,0.760,0.243,0.000,0.074
+Greece,2020,Western Europe,77,5.515,1.128,1.169,0.979,0.174,0.000,0.049
+Greece,2018,Western Europe,79,5.358,1.154,1.202,0.879,0.131,0.000,0.044
+Greece,2019,Western Europe,82,5.287,1.181,1.156,0.999,0.067,0.000,0.034
+Greece,2017,Western Europe,87,5.227,1.289,1.239,0.810,0.096,0.000,0.043
+Greece,2016,Western Europe,99,5.033,1.249,0.755,0.800,0.058,0.000,0.041
+Greece,2015,Western Europe,102,4.857,1.154,0.929,0.882,0.077,0.000,0.014
+Guatemala,2019,Latin America and Caribbean,27,6.436,0.800,1.269,0.746,0.535,0.175,0.078
+Guatemala,2017,Latin America and Caribbean,29,6.454,0.872,1.256,0.540,0.531,0.283,0.077
+Guatemala,2020,Latin America and Caribbean,29,6.399,0.754,1.174,0.706,0.613,0.171,0.098
+Guatemala,2018,Latin America and Caribbean,30,6.382,0.781,1.268,0.608,0.604,0.179,0.071
+Guatemala,2021,Latin America and Caribbean,30,6.435,0.845,0.790,0.519,0.638,0.163,0.105
+Guatemala,2016,Latin America and Caribbean,39,6.324,0.835,0.871,0.540,0.504,0.288,0.087
+Guatemala,2022,Latin America and Caribbean,39,6.262,1.274,0.831,0.522,0.662,0.112,0.115
+Guatemala,2015,Latin America and Caribbean,43,6.123,0.746,1.044,0.644,0.577,0.275,0.095
+Guatemala,2023,Latin America and Caribbean,43,6.150,1.287,1.188,0.310,0.631,0.106,0.066
+Guinea,2023,Sub-Saharan Africa,91,5.072,0.844,0.776,0.072,0.369,0.204,0.102
+Guinea,2020,Sub-Saharan Africa,102,4.949,0.390,0.751,0.334,0.372,0.249,0.112
+Guinea,2021,Sub-Saharan Africa,102,4.984,0.420,0.399,0.206,0.384,0.250,0.111
+Guinea,2022,Sub-Saharan Africa,109,4.891,0.848,0.566,0.275,0.334,0.214,0.116
+Guinea,2019,Sub-Saharan Africa,118,4.534,0.380,0.829,0.375,0.332,0.207,0.086
+Guinea,2018,Sub-Saharan Africa,140,3.964,0.344,0.792,0.211,0.394,0.185,0.094
+Guinea,2017,Sub-Saharan Africa,149,3.507,0.245,0.791,0.194,0.349,0.265,0.111
+Guinea,2015,Sub-Saharan Africa,150,3.656,0.174,0.465,0.240,0.377,0.287,0.121
+Guinea,2016,Sub-Saharan Africa,151,3.607,0.224,0.311,0.188,0.310,0.299,0.119
+Haiti,2015,Latin America and Caribbean,119,4.518,0.267,0.743,0.388,0.244,0.462,0.172
+Haiti,2016,Latin America and Caribbean,136,4.028,0.341,0.296,0.275,0.121,0.480,0.145
+Haiti,2020,Latin America and Caribbean,142,3.721,0.285,0.647,0.374,0.169,0.464,0.162
+Haiti,2021,Latin America and Caribbean,143,3.615,0.294,0.173,0.227,0.257,0.463,0.139
+Haiti,2017,Latin America and Caribbean,145,3.603,0.369,0.640,0.277,0.030,0.489,0.100
+Haiti,2019,Latin America and Caribbean,147,3.597,0.323,0.688,0.449,0.026,0.419,0.110
+Haiti,2018,Latin America and Caribbean,148,3.582,0.315,0.714,0.289,0.025,0.392,0.104
+Honduras,2023,Latin America and Caribbean,53,6.023,1.115,1.072,0.341,0.613,0.189,0.062
+Honduras,2022,Latin America and Caribbean,55,6.022,1.111,0.885,0.555,0.582,0.202,0.076
+Honduras,2020,Latin America and Caribbean,56,5.953,0.599,1.187,0.792,0.568,0.257,0.087
+Honduras,2019,Latin America and Caribbean,59,5.860,0.642,1.236,0.828,0.507,0.246,0.078
+Honduras,2021,Latin America and Caribbean,59,5.919,0.703,0.787,0.593,0.578,0.241,0.083
+Honduras,2018,Latin America and Caribbean,72,5.504,0.620,1.205,0.622,0.459,0.197,0.074
+Honduras,2017,Latin America and Caribbean,91,5.181,0.731,1.144,0.583,0.348,0.236,0.073
+Honduras,2016,Latin America and Caribbean,104,4.871,0.694,0.756,0.584,0.268,0.204,0.069
+Honduras,2015,Latin America and Caribbean,105,4.788,0.595,0.953,0.695,0.401,0.230,0.068
+Hong Kong,2017,Eastern Asia,71,5.472,1.552,1.263,0.943,0.491,0.374,0.294
+Hong Kong,2015,Eastern Asia,72,5.474,1.386,1.058,1.013,0.596,0.395,0.371
+Hong Kong,2016,Eastern Asia,75,5.458,1.511,0.870,0.953,0.481,0.401,0.316
+Hong Kong,2018,Eastern Asia,76,5.430,1.405,1.290,1.030,0.524,0.246,0.291
+Hong Kong,2019,Eastern Asia,76,5.430,1.438,1.277,1.122,0.440,0.258,0.287
+Hong Kong,2021,Eastern Asia,77,5.477,1.525,0.841,0.893,0.408,0.232,0.342
+Hong Kong,2020,Eastern Asia,78,5.510,1.377,1.244,1.137,0.459,0.288,0.332
+Hong Kong,2022,Eastern Asia,81,5.425,1.957,0.954,0.942,0.400,0.147,0.383
+Hong Kong,2023,Eastern Asia,82,5.308,1.951,1.201,0.702,0.407,0.123,0.390
+Hungary,2022,Central and Eastern Europe,51,6.086,1.748,1.233,0.668,0.485,0.078,0.064
+Hungary,2023,Central and Eastern Europe,51,6.041,1.754,1.519,0.435,0.501,0.105,0.065
+Hungary,2020,Central and Eastern Europe,53,6.000,1.164,1.423,0.807,0.386,0.070,0.028
+Hungary,2021,Central and Eastern Europe,53,5.992,1.301,1.083,0.615,0.454,0.067,0.040
+Hungary,2019,Central and Eastern Europe,62,5.758,1.201,1.410,0.828,0.199,0.081,0.020
+Hungary,2018,Central and Eastern Europe,69,5.620,1.171,1.401,0.732,0.259,0.061,0.022
+Hungary,2017,Central and Eastern Europe,75,5.324,1.286,1.343,0.688,0.176,0.078,0.037
+Hungary,2016,Central and Eastern Europe,91,5.145,1.241,0.932,0.676,0.198,0.099,0.045
+Hungary,2015,Central and Eastern Europe,104,4.800,1.121,1.202,0.759,0.321,0.128,0.028
+Iceland,2015,Western Europe,2,7.561,1.302,1.402,0.948,0.629,0.436,0.141
+Iceland,2016,Western Europe,3,7.501,1.427,1.183,0.867,0.566,0.477,0.150
+Iceland,2017,Western Europe,3,7.504,1.481,1.611,0.834,0.627,0.476,0.154
+Iceland,2022,Western Europe,3,7.557,1.936,1.320,0.803,0.718,0.270,0.191
+Iceland,2023,Western Europe,3,7.530,1.926,1.620,0.559,0.738,0.250,0.187
+Iceland,2018,Western Europe,4,7.495,1.343,1.644,0.914,0.677,0.353,0.138
+Iceland,2019,Western Europe,4,7.494,1.380,1.624,1.026,0.591,0.354,0.118
+Iceland,2020,Western Europe,4,7.504,1.327,1.548,1.001,0.662,0.362,0.145
+Iceland,2021,Western Europe,4,7.554,1.482,1.172,0.772,0.698,0.293,0.170
+India,2015,Southern Asia,117,4.565,0.645,0.382,0.515,0.398,0.265,0.085
+India,2016,Southern Asia,118,4.404,0.740,0.292,0.451,0.403,0.250,0.087
+India,2017,Southern Asia,122,4.315,0.792,0.754,0.455,0.470,0.232,0.092
+India,2023,Southern Asia,126,4.036,1.159,0.674,0.252,0.685,0.175,0.111
+India,2018,Southern Asia,133,4.190,0.721,0.747,0.485,0.539,0.172,0.093
+India,2022,Southern Asia,136,3.777,1.167,0.376,0.471,0.647,0.198,0.123
+India,2021,Southern Asia,139,3.819,0.741,0.316,0.383,0.622,0.246,0.106
+India,2019,Southern Asia,140,4.015,0.755,0.765,0.588,0.498,0.200,0.085
+India,2020,Southern Asia,144,3.573,0.731,0.644,0.541,0.581,0.237,0.106
+Indonesia,2015,Southeastern Asia,74,5.399,0.828,1.087,0.638,0.466,0.515,0.000
+Indonesia,2016,Southeastern Asia,79,5.314,0.951,0.876,0.494,0.392,0.565,0.003
+Indonesia,2017,Southeastern Asia,81,5.262,0.996,1.274,0.492,0.443,0.612,0.015
+Indonesia,2021,Southeastern Asia,82,5.345,0.954,0.786,0.433,0.598,0.541,0.046
+Indonesia,2020,Southeastern Asia,84,5.286,0.892,1.155,0.610,0.568,0.543,0.038
+Indonesia,2023,Southeastern Asia,84,5.277,1.384,1.169,0.314,0.663,0.422,0.038
+Indonesia,2022,Southeastern Asia,87,5.240,1.382,0.883,0.539,0.620,0.468,0.047
+Indonesia,2019,Southeastern Asia,92,5.192,0.931,1.203,0.660,0.491,0.498,0.028
+Indonesia,2018,Southeastern Asia,96,5.093,0.899,1.215,0.522,0.538,0.484,0.018
+Iran,2023,Middle East and Northern Africa,101,4.876,1.465,1.102,0.411,0.281,0.229,0.130
+Iran,2016,Middle East and Northern Africa,105,4.813,1.118,0.389,0.642,0.225,0.385,0.056
+Iran,2018,Middle East and Northern Africa,106,4.707,1.059,0.771,0.691,0.459,0.282,0.129
+Iran,2017,Middle East and Northern Africa,108,4.692,1.157,0.712,0.639,0.249,0.387,0.049
+Iran,2022,Middle East and Northern Africa,110,4.888,1.410,0.741,0.642,0.281,0.241,0.146
+Iran,2015,Middle East and Northern Africa,110,4.686,1.009,0.544,0.698,0.300,0.381,0.059
+Iran,2019,Middle East and Northern Africa,117,4.548,1.100,0.842,0.785,0.305,0.270,0.125
+Iran,2020,Middle East and Northern Africa,118,4.672,1.029,0.886,0.749,0.301,0.277,0.143
+Iran,2021,Middle East and Northern Africa,118,4.721,1.030,0.557,0.561,0.275,0.330,0.144
+Iraq,2023,Middle East and Northern Africa,98,4.941,1.281,0.953,0.324,0.351,0.134,0.038
+Iraq,2022,Middle East and Northern Africa,107,4.941,1.289,0.682,0.554,0.328,0.147,0.046
+Iraq,2020,Middle East and Northern Africa,110,4.785,0.982,1.011,0.529,0.284,0.153,0.073
+Iraq,2021,Middle East and Northern Africa,111,4.854,0.910,0.638,0.381,0.302,0.153,0.041
+Iraq,2016,Middle East and Northern Africa,112,4.575,1.075,0.592,0.511,0.249,0.196,0.136
+Iraq,2015,Middle East and Northern Africa,112,4.677,0.985,0.819,0.602,0.000,0.179,0.138
+Iraq,2017,Middle East and Northern Africa,117,4.497,1.103,0.979,0.501,0.289,0.200,0.107
+Iraq,2018,Middle East and Northern Africa,117,4.456,1.010,0.971,0.536,0.304,0.148,0.095
+Iraq,2019,Middle East and Northern Africa,126,4.437,1.043,0.980,0.574,0.241,0.148,0.089
+Ireland,2022,Western Europe,13,7.041,2.129,1.166,0.779,0.627,0.190,0.408
+Ireland,2018,Western Europe,14,6.977,1.448,1.583,0.876,0.614,0.307,0.306
+Ireland,2023,Western Europe,14,6.911,2.152,1.425,0.539,0.656,0.186,0.409
+Ireland,2017,Western Europe,15,6.977,1.536,1.558,0.810,0.573,0.428,0.298
+Ireland,2021,Western Europe,15,7.085,1.644,1.092,0.753,0.606,0.238,0.367
+Ireland,2019,Western Europe,16,7.021,1.499,1.553,0.999,0.516,0.298,0.310
+Ireland,2020,Western Europe,16,7.094,1.447,1.471,0.976,0.588,0.295,0.373
+Ireland,2015,Western Europe,18,6.940,1.336,1.369,0.895,0.618,0.459,0.287
+Ireland,2016,Western Europe,19,6.907,1.483,1.162,0.815,0.540,0.450,0.298
+Israel,2023,Middle East and Northern Africa,4,7.473,1.833,1.521,0.577,0.569,0.124,0.158
+Israel,2022,Middle East and Northern Africa,9,7.364,1.826,1.221,0.818,0.568,0.155,0.143
+Israel,2015,Middle East and Northern Africa,11,7.278,1.229,1.224,0.914,0.413,0.332,0.078
+Israel,2016,Middle East and Northern Africa,11,7.267,1.338,0.995,0.849,0.364,0.323,0.087
+Israel,2017,Middle East and Northern Africa,11,7.213,1.375,1.376,0.838,0.406,0.330,0.085
+Israel,2021,Middle East and Northern Africa,12,7.157,1.376,1.074,0.788,0.509,0.208,0.119
+Israel,2019,Middle East and Northern Africa,13,7.139,1.276,1.455,1.029,0.371,0.261,0.082
+Israel,2020,Middle East and Northern Africa,14,7.129,1.216,1.403,1.008,0.421,0.267,0.100
+Israel,2018,Middle East and Northern Africa,19,6.814,1.301,1.559,0.883,0.533,0.354,0.272
+Italy,2021,Western Europe,28,6.483,1.393,0.940,0.798,0.379,0.133,0.047
+Italy,2020,Western Europe,30,6.387,1.236,1.347,1.023,0.321,0.170,0.040
+Italy,2022,Western Europe,31,6.467,1.834,1.052,0.801,0.412,0.085,0.059
+Italy,2023,Western Europe,33,6.405,1.832,1.365,0.559,0.438,0.097,0.063
+Italy,2019,Western Europe,36,6.223,1.294,1.488,1.039,0.231,0.158,0.030
+Italy,2018,Western Europe,47,6.000,1.264,1.501,0.946,0.281,0.137,0.028
+Italy,2017,Western Europe,48,5.964,1.395,1.445,0.853,0.256,0.173,0.028
+Italy,2015,Western Europe,50,5.948,1.251,1.198,0.954,0.262,0.228,0.029
+Italy,2016,Western Europe,50,5.977,1.355,1.042,0.851,0.188,0.167,0.026
+Ivory Coast,2020,Sub-Saharan Africa,85,5.233,0.537,0.800,0.155,0.397,0.170,0.093
+Ivory Coast,2021,Sub-Saharan Africa,85,5.306,0.669,0.409,0.052,0.438,0.177,0.092
+Ivory Coast,2022,Sub-Saharan Africa,88,5.235,1.094,0.442,0.322,0.451,0.149,0.124
+Ivory Coast,2023,Sub-Saharan Africa,93,5.053,1.094,0.584,0.120,0.467,0.138,0.131
+Ivory Coast,2019,Sub-Saharan Africa,99,4.944,0.569,0.808,0.232,0.352,0.154,0.090
+Ivory Coast,2018,Sub-Saharan Africa,107,4.671,0.541,0.872,0.080,0.467,0.146,0.103
+Ivory Coast,2017,Sub-Saharan Africa,128,4.180,0.603,0.905,0.049,0.448,0.201,0.130
+Ivory Coast,2016,Sub-Saharan Africa,139,3.916,0.555,0.576,0.045,0.407,0.203,0.155
+Ivory Coast,2015,Sub-Saharan Africa,151,3.655,0.465,0.771,0.152,0.469,0.202,0.179
+Jamaica,2021,Latin America and Caribbean,37,6.309,0.891,0.932,0.599,0.618,0.099,0.035
+Jamaica,2018,Latin America and Caribbean,56,5.890,0.819,1.493,0.693,0.575,0.096,0.031
+Jamaica,2019,Latin America and Caribbean,56,5.890,0.831,1.478,0.831,0.490,0.107,0.028
+Jamaica,2020,Latin America and Caribbean,60,5.890,0.779,1.408,0.788,0.553,0.116,0.030
+Jamaica,2022,Latin America and Caribbean,63,5.850,1.296,1.045,0.646,0.567,0.080,0.053
+Jamaica,2015,Latin America and Caribbean,65,5.709,0.810,1.151,0.687,0.504,0.212,0.023
+Jamaica,2023,Latin America and Caribbean,68,5.703,1.305,1.329,0.411,0.587,0.079,0.039
+Jamaica,2016,Latin America and Caribbean,73,5.510,0.893,0.964,0.595,0.436,0.222,0.043
+Jamaica,2017,Latin America and Caribbean,76,5.311,0.926,1.368,0.641,0.474,0.234,0.055
+Japan,2015,Eastern Asia,46,5.987,1.271,1.257,0.991,0.496,0.107,0.181
+Japan,2023,Eastern Asia,47,6.129,1.825,1.396,0.622,0.556,0.009,0.207
+Japan,2017,Eastern Asia,51,5.920,1.417,1.436,0.913,0.506,0.121,0.164
+Japan,2016,Eastern Asia,53,5.921,1.380,1.061,0.915,0.468,0.102,0.190
+Japan,2018,Eastern Asia,54,5.915,1.294,1.462,0.988,0.553,0.079,0.150
+Japan,2022,Eastern Asia,54,6.039,1.835,1.089,0.866,0.537,0.007,0.218
+Japan,2021,Eastern Asia,56,5.940,1.389,0.949,0.838,0.504,0.020,0.192
+Japan,2019,Eastern Asia,58,5.886,1.327,1.419,1.088,0.445,0.069,0.140
+Japan,2020,Eastern Asia,62,5.871,1.267,1.332,1.073,0.495,0.036,0.181
+Jordan,2017,Middle East and Northern Africa,74,5.336,0.991,1.239,0.605,0.418,0.172,0.120
+Jordan,2016,Middle East and Northern Africa,80,5.303,0.997,0.862,0.607,0.360,0.143,0.133
+Jordan,2015,Middle East and Northern Africa,82,5.192,0.902,1.054,0.696,0.407,0.111,0.143
+Jordan,2018,Middle East and Northern Africa,90,5.161,0.822,1.265,0.645,0.468,0.130,0.134
+Jordan,2019,Middle East and Northern Africa,101,4.906,0.837,1.225,0.815,0.383,0.110,0.130
+Jordan,2020,Middle East and Northern Africa,119,4.633,0.785,1.140,0.778,0.425,0.091,0.152
+Jordan,2023,Middle East and Northern Africa,123,4.120,1.292,0.980,0.438,0.517,0.056,0.173
+Jordan,2021,Middle East and Northern Africa,127,4.395,0.890,0.685,0.583,0.455,0.079,0.150
+Jordan,2022,Middle East and Northern Africa,134,4.152,1.324,0.724,0.675,0.476,0.058,0.200
+Kazakhstan,2022,Central and Eastern Europe,40,6.234,1.668,1.220,0.611,0.584,0.134,0.157
+Kazakhstan,2023,Central and Eastern Europe,44,6.144,1.664,1.491,0.389,0.628,0.136,0.149
+Kazakhstan,2021,Central and Eastern Europe,45,6.152,1.230,1.103,0.527,0.573,0.143,0.132
+Kazakhstan,2020,Central and Eastern Europe,50,6.058,1.123,1.453,0.699,0.497,0.154,0.110
+Kazakhstan,2015,Central and Eastern Europe,54,5.855,1.123,1.122,0.644,0.516,0.118,0.085
+Kazakhstan,2016,Central and Eastern Europe,54,5.919,1.229,0.955,0.574,0.405,0.150,0.111
+Kazakhstan,2017,Central and Eastern Europe,60,5.819,1.285,1.384,0.606,0.437,0.202,0.119
+Kazakhstan,2018,Central and Eastern Europe,60,5.790,1.143,1.516,0.631,0.454,0.148,0.121
+Kazakhstan,2019,Central and Eastern Europe,60,5.809,1.173,1.508,0.729,0.410,0.146,0.096
+Kenya,2023,Sub-Saharan Africa,111,4.487,1.051,0.881,0.190,0.418,0.291,0.055
+Kenya,2017,Sub-Saharan Africa,112,4.553,0.560,1.068,0.310,0.453,0.445,0.065
+Kenya,2022,Sub-Saharan Africa,119,4.543,1.032,0.605,0.401,0.440,0.322,0.082
+Kenya,2019,Sub-Saharan Africa,121,4.509,0.512,0.983,0.581,0.431,0.372,0.053
+Kenya,2020,Sub-Saharan Africa,121,4.583,0.476,0.905,0.536,0.519,0.394,0.067
+Kenya,2021,Sub-Saharan Africa,121,4.607,0.603,0.508,0.385,0.483,0.375,0.073
+Kenya,2016,Sub-Saharan Africa,122,4.356,0.523,0.762,0.301,0.406,0.413,0.067
+Kenya,2018,Sub-Saharan Africa,124,4.410,0.493,1.048,0.454,0.504,0.352,0.055
+Kenya,2015,Sub-Saharan Africa,125,4.419,0.365,0.999,0.414,0.422,0.375,0.058
+Kosovo,2022,Central and Eastern Europe,32,6.455,1.362,0.949,0.569,0.599,0.309,0.035
+Kosovo,2021,Central and Eastern Europe,33,6.372,0.937,0.807,0.483,0.593,0.356,0.014
+Kosovo,2023,Central and Eastern Europe,34,6.368,1.374,1.269,0.372,0.639,0.275,0.045
+Kosovo,2020,Central and Eastern Europe,35,6.325,0.840,1.184,0.673,0.557,0.325,0.009
+Kosovo,2019,Central and Eastern Europe,46,6.100,0.882,1.232,0.758,0.489,0.262,0.006
+Kosovo,2018,Central and Eastern Europe,66,5.662,0.855,1.230,0.578,0.448,0.274,0.023
+Kosovo,2015,Central and Eastern Europe,69,5.589,0.801,0.812,0.631,0.247,0.283,0.047
+Kosovo,2016,Central and Eastern Europe,77,5.401,0.901,0.661,0.540,0.144,0.280,0.065
+Kosovo,2017,Central and Eastern Europe,78,5.279,0.951,1.138,0.541,0.260,0.320,0.057
+Kuwait,2015,Middle East and Northern Africa,39,6.295,1.554,1.166,0.725,0.555,0.162,0.256
+Kuwait,2017,Middle East and Northern Africa,39,6.105,1.633,1.260,0.632,0.496,0.228,0.215
+Kuwait,2016,Middle East and Northern Africa,41,6.239,1.617,0.878,0.636,0.432,0.160,0.237
+Kuwait,2018,Middle East and Northern Africa,45,6.083,1.474,1.301,0.675,0.554,0.167,0.106
+Kuwait,2021,Middle East and Northern Africa,47,6.106,1.461,0.857,0.580,0.591,0.120,0.130
+Kuwait,2020,Middle East and Northern Africa,48,6.102,1.425,1.245,0.776,0.570,0.133,0.113
+Kuwait,2022,Middle East and Northern Africa,50,6.106,1.904,0.983,0.747,0.617,0.087,0.147
+Kuwait,2019,Middle East and Northern Africa,51,6.021,1.500,1.319,0.808,0.493,0.142,0.097
+Kyrgyzstan,2023,Central and Eastern Europe,62,5.825,1.061,1.439,0.417,0.735,0.234,0.018
+Kyrgyzstan,2022,Central and Eastern Europe,64,5.828,1.069,1.109,0.638,0.693,0.208,0.025
+Kyrgyzstan,2021,Central and Eastern Europe,67,5.744,0.665,0.971,0.501,0.673,0.266,0.020
+Kyrgyzstan,2020,Central and Eastern Europe,74,5.542,0.513,1.341,0.681,0.615,0.301,0.030
+Kyrgyzstan,2015,Central and Eastern Europe,77,5.286,0.474,1.151,0.651,0.435,0.300,0.042
+Kyrgyzstan,2016,Central and Eastern Europe,85,5.185,0.560,0.954,0.554,0.402,0.384,0.048
+Kyrgyzstan,2019,Central and Eastern Europe,86,5.261,0.551,1.438,0.723,0.508,0.300,0.023
+Kyrgyzstan,2018,Central and Eastern Europe,92,5.131,0.530,1.416,0.594,0.540,0.281,0.035
+Kyrgyzstan,2017,Central and Eastern Europe,98,5.004,0.596,1.394,0.553,0.455,0.429,0.039
+Laos,2023,Southeastern Asia,89,5.111,1.232,0.853,0.257,0.715,0.185,0.162
+Laos,2022,Southeastern Asia,95,5.140,1.239,0.654,0.479,0.679,0.197,0.184
+Laos,2015,Southeastern Asia,99,4.876,0.591,0.738,0.549,0.596,0.422,0.242
+Laos,2021,Southeastern Asia,100,5.030,0.808,0.598,0.330,0.643,0.268,0.179
+Laos,2016,Southeastern Asia,102,4.876,0.680,0.550,0.383,0.522,0.431,0.224
+Laos,2020,Southeastern Asia,104,4.889,0.715,0.987,0.486,0.612,0.273,0.194
+Laos,2019,Southeastern Asia,105,4.796,0.764,1.030,0.551,0.547,0.266,0.164
+Laos,2018,Southeastern Asia,110,4.623,0.720,1.034,0.441,0.626,0.230,0.174
+Latvia,2023,Central and Eastern Europe,41,6.213,1.737,1.505,0.405,0.580,0.107,0.071
+Latvia,2022,Central and Eastern Europe,42,6.180,1.732,1.221,0.637,0.502,0.075,0.090
+Latvia,2021,Central and Eastern Europe,51,6.032,1.285,1.047,0.587,0.405,0.082,0.089
+Latvia,2018,Central and Eastern Europe,53,5.933,1.148,1.454,0.671,0.363,0.092,0.066
+Latvia,2019,Central and Eastern Europe,53,5.940,1.187,1.465,0.812,0.264,0.075,0.064
+Latvia,2017,Central and Eastern Europe,54,5.850,1.261,1.405,0.639,0.326,0.153,0.074
+Latvia,2020,Central and Eastern Europe,57,5.950,1.141,1.414,0.778,0.329,0.075,0.090
+Latvia,2016,Central and Eastern Europe,68,5.560,1.218,0.950,0.640,0.280,0.174,0.089
+Latvia,2015,Central and Eastern Europe,89,5.098,1.113,1.096,0.724,0.297,0.182,0.063
+Lebanon,2018,Middle East and Northern Africa,80,5.358,0.965,1.179,0.785,0.503,0.214,0.136
+Lebanon,2017,Middle East and Northern Africa,88,5.225,1.075,1.130,0.735,0.289,0.264,0.038
+Lebanon,2019,Middle East and Northern Africa,91,5.197,0.987,1.224,0.815,0.216,0.166,0.027
+Lebanon,2016,Middle East and Northern Africa,93,5.129,1.123,0.642,0.762,0.262,0.237,0.031
+Lebanon,2015,Middle East and Northern Africa,103,4.839,1.026,0.800,0.839,0.339,0.219,0.046
+Lebanon,2020,Middle East and Northern Africa,111,4.772,0.889,1.192,0.789,0.186,0.159,0.022
+Lebanon,2021,Middle East and Northern Africa,123,4.584,1.045,0.868,0.595,0.175,0.140,0.026
+Lebanon,2023,Middle East and Northern Africa,136,2.392,1.417,0.476,0.398,0.123,0.061,0.027
+Lebanon,2022,Middle East and Northern Africa,145,2.955,1.392,0.498,0.631,0.103,0.082,0.034
+Lesotho,2015,Sub-Saharan Africa,97,4.898,0.375,1.041,0.076,0.318,0.164,0.125
+Lesotho,2017,Sub-Saharan Africa,139,3.808,0.521,1.190,0.000,0.391,0.157,0.119
+Lesotho,2018,Sub-Saharan Africa,141,3.808,0.472,1.215,0.079,0.423,0.116,0.112
+Lesotho,2022,Sub-Saharan Africa,141,3.512,0.839,0.848,0.000,0.419,0.076,0.018
+Lesotho,2020,Sub-Saharan Africa,143,3.653,0.455,1.089,0.101,0.409,0.103,0.050
+Lesotho,2019,Sub-Saharan Africa,144,3.802,0.489,1.169,0.168,0.359,0.107,0.093
+Lesotho,2021,Sub-Saharan Africa,145,3.512,0.451,0.731,0.007,0.405,0.103,0.015
+Liberia,2022,Sub-Saharan Africa,97,5.122,0.636,0.670,0.309,0.405,0.178,0.080
+Liberia,2015,Sub-Saharan Africa,116,4.571,0.071,0.790,0.342,0.285,0.244,0.062
+Liberia,2021,Sub-Saharan Africa,120,4.625,0.228,0.580,0.253,0.430,0.221,0.057
+Liberia,2020,Sub-Saharan Africa,124,4.558,0.174,0.921,0.392,0.406,0.227,0.051
+Liberia,2023,Sub-Saharan Africa,125,4.042,0.628,0.644,0.141,0.471,0.219,0.071
+Liberia,2019,Sub-Saharan Africa,141,3.975,0.073,0.922,0.443,0.370,0.233,0.033
+Liberia,2017,Sub-Saharan Africa,148,3.533,0.119,0.872,0.230,0.333,0.267,0.039
+Liberia,2018,Sub-Saharan Africa,149,3.495,0.076,0.858,0.267,0.419,0.206,0.030
+Liberia,2016,Sub-Saharan Africa,150,3.622,0.107,0.504,0.232,0.257,0.241,0.049
+Libya,2015,Middle East and Northern Africa,63,5.754,1.131,1.119,0.704,0.417,0.183,0.110
+Libya,2016,Middle East and Northern Africa,67,5.615,1.067,0.951,0.523,0.407,0.171,0.103
+Libya,2017,Middle East and Northern Africa,68,5.525,1.102,1.358,0.520,0.466,0.152,0.093
+Libya,2018,Middle East and Northern Africa,70,5.566,0.985,1.350,0.553,0.496,0.116,0.148
+Libya,2019,Middle East and Northern Africa,72,5.525,1.044,1.303,0.673,0.416,0.133,0.152
+Libya,2020,Middle East and Northern Africa,80,5.489,1.022,1.196,0.616,0.451,0.143,0.172
+Libya,2021,Middle East and Northern Africa,80,5.410,1.044,0.821,0.435,0.474,0.131,0.174
+Libya,2022,Middle East and Northern Africa,86,5.330,1.476,0.943,0.606,0.477,0.106,0.179
+Lithuania,2023,Central and Eastern Europe,20,6.763,1.808,1.511,0.432,0.487,0.059,0.089
+Lithuania,2022,Central and Eastern Europe,34,6.446,1.804,1.204,0.659,0.496,0.053,0.077
+Lithuania,2021,Central and Eastern Europe,38,6.255,1.350,1.065,0.612,0.476,0.056,0.073
+Lithuania,2020,Central and Eastern Europe,41,6.215,1.194,1.433,0.795,0.420,0.054,0.081
+Lithuania,2019,Central and Eastern Europe,42,6.149,1.238,1.515,0.818,0.291,0.043,0.042
+Lithuania,2018,Central and Eastern Europe,50,5.952,1.197,1.527,0.716,0.350,0.026,0.006
+Lithuania,2017,Central and Eastern Europe,52,5.902,1.315,1.474,0.629,0.234,0.010,0.012
+Lithuania,2015,Central and Eastern Europe,56,5.833,1.147,1.257,0.731,0.213,0.026,0.010
+Lithuania,2016,Central and Eastern Europe,60,5.813,1.269,1.064,0.647,0.189,0.020,0.018
+Luxembourg,2022,Western Europe,6,7.404,2.209,1.155,0.790,0.700,0.120,0.388
+Luxembourg,2021,Western Europe,8,7.324,1.751,1.003,0.760,0.639,0.166,0.353
+Luxembourg,2023,Western Europe,9,7.228,2.200,1.357,0.549,0.710,0.149,0.418
+Luxembourg,2020,Western Europe,10,7.238,1.537,1.388,0.986,0.610,0.196,0.367
+Luxembourg,2019,Western Europe,14,7.090,1.609,1.479,1.012,0.526,0.194,0.316
+Luxembourg,2015,Western Europe,17,6.946,1.564,1.220,0.919,0.616,0.280,0.378
+Luxembourg,2018,Western Europe,17,6.910,1.576,1.520,0.896,0.632,0.196,0.321
+Luxembourg,2017,Western Europe,18,6.863,1.742,1.458,0.845,0.597,0.283,0.319
+Luxembourg,2016,Western Europe,20,6.871,1.698,1.040,0.845,0.549,0.276,0.353
+Macedonia,2019,Central and Eastern Europe,84,5.274,0.983,1.294,0.838,0.345,0.185,0.034
+Macedonia,2023,Central and Eastern Europe,87,5.254,1.498,1.171,0.408,0.515,0.207,0.020
+Macedonia,2018,Central and Eastern Europe,89,5.185,0.959,1.239,0.691,0.394,0.173,0.052
+Macedonia,2022,Central and Eastern Europe,89,5.199,1.505,0.863,0.637,0.488,0.215,0.031
+Macedonia,2020,Central and Eastern Europe,90,5.160,0.935,1.183,0.803,0.410,0.186,0.025
+Macedonia,2017,Central and Eastern Europe,92,5.175,1.065,1.208,0.645,0.326,0.254,0.060
+Macedonia,2015,Central and Eastern Europe,93,5.007,0.919,1.002,0.735,0.335,0.224,0.053
+Macedonia,2021,Central and Eastern Europe,94,5.101,1.068,0.772,0.535,0.450,0.212,0.022
+Macedonia,2016,Central and Eastern Europe,95,5.121,1.019,0.782,0.647,0.277,0.235,0.070
+Madagascar,2023,Sub-Saharan Africa,127,4.019,0.632,0.779,0.178,0.187,0.177,0.134
+Madagascar,2022,Sub-Saharan Africa,128,4.339,0.670,0.645,0.378,0.202,0.143,0.154
+Madagascar,2021,Sub-Saharan Africa,135,4.208,0.266,0.503,0.341,0.207,0.185,0.087
+Madagascar,2020,Sub-Saharan Africa,137,4.166,0.245,0.824,0.501,0.193,0.191,0.076
+Madagascar,2018,Sub-Saharan Africa,143,3.774,0.262,0.908,0.402,0.221,0.155,0.049
+Madagascar,2019,Sub-Saharan Africa,143,3.933,0.274,0.916,0.555,0.148,0.169,0.041
+Madagascar,2017,Sub-Saharan Africa,144,3.644,0.306,0.913,0.375,0.189,0.209,0.067
+Madagascar,2015,Sub-Saharan Africa,147,3.681,0.208,0.668,0.467,0.192,0.213,0.081
+Madagascar,2016,Sub-Saharan Africa,148,3.695,0.280,0.461,0.371,0.137,0.220,0.075
+Malawi,2023,Sub-Saharan Africa,131,3.495,0.637,0.479,0.189,0.490,0.139,0.129
+Malawi,2015,Sub-Saharan Africa,131,4.292,0.016,0.411,0.226,0.431,0.331,0.070
+Malawi,2016,Sub-Saharan Africa,132,4.156,0.087,0.147,0.294,0.414,0.310,0.076
+Malawi,2017,Sub-Saharan Africa,136,3.970,0.233,0.513,0.315,0.467,0.287,0.073
+Malawi,2022,Sub-Saharan Africa,138,3.750,0.648,0.279,0.388,0.477,0.140,0.157
+Malawi,2021,Sub-Saharan Africa,144,3.600,0.113,0.168,0.298,0.484,0.213,0.134
+Malawi,2020,Sub-Saharan Africa,145,3.538,0.177,0.530,0.446,0.487,0.213,0.132
+Malawi,2018,Sub-Saharan Africa,147,3.587,0.186,0.541,0.306,0.531,0.210,0.080
+Malawi,2019,Sub-Saharan Africa,150,3.410,0.191,0.560,0.495,0.443,0.218,0.089
+Malaysia,2018,Southeastern Asia,35,6.322,1.161,1.258,0.669,0.356,0.311,0.059
+Malaysia,2017,Southeastern Asia,42,6.084,1.291,1.285,0.619,0.402,0.417,0.066
+Malaysia,2016,Southeastern Asia,47,6.005,1.251,0.880,0.624,0.390,0.415,0.091
+Malaysia,2023,Southeastern Asia,55,6.012,1.665,1.155,0.385,0.659,0.222,0.122
+Malaysia,2015,Southeastern Asia,61,5.770,1.125,1.070,0.724,0.530,0.331,0.105
+Malaysia,2022,Southeastern Asia,70,5.711,1.689,0.938,0.620,0.654,0.213,0.126
+Malaysia,2019,Southeastern Asia,80,5.339,1.221,1.171,0.828,0.508,0.260,0.024
+Malaysia,2021,Southeastern Asia,81,5.384,1.259,0.797,0.587,0.624,0.270,0.064
+Malaysia,2020,Southeastern Asia,82,5.384,1.168,1.174,0.789,0.597,0.275,0.062
+Maldives,2020,Eastern Asia,87,5.198,0.938,1.402,0.914,0.548,0.224,0.072
+Maldives,2021,Southern Asia,89,5.198,1.115,1.015,0.697,0.575,0.204,0.073
+Mali,2020,Sub-Saharan Africa,114,4.729,0.352,0.973,0.235,0.378,0.170,0.062
+Mali,2021,Sub-Saharan Africa,117,4.723,0.387,0.590,0.110,0.384,0.164,0.072
+Mali,2018,Sub-Saharan Africa,118,4.447,0.370,1.233,0.152,0.367,0.139,0.056
+Mali,2023,Sub-Saharan Africa,120,4.198,0.763,0.637,0.106,0.441,0.121,0.059
+Mali,2022,Sub-Saharan Africa,123,4.479,0.792,0.483,0.311,0.350,0.128,0.042
+Mali,2017,Sub-Saharan Africa,127,4.190,0.476,1.281,0.169,0.307,0.183,0.105
+Mali,2019,Sub-Saharan Africa,128,4.390,0.385,1.105,0.308,0.327,0.153,0.052
+Mali,2016,Sub-Saharan Africa,135,4.073,0.313,0.863,0.163,0.275,0.211,0.136
+Mali,2015,Sub-Saharan Africa,138,3.995,0.261,1.035,0.206,0.389,0.188,0.124
+Malta,2018,Western Europe,22,6.627,1.270,1.525,0.884,0.645,0.376,0.142
+Malta,2019,Western Europe,22,6.726,1.300,1.520,0.999,0.564,0.375,0.151
+Malta,2020,Western Europe,22,6.773,1.253,1.443,0.972,0.633,0.341,0.179
+Malta,2021,Western Europe,23,6.602,1.411,1.055,0.747,0.664,0.275,0.183
+Malta,2017,Western Europe,27,6.527,1.343,1.488,0.822,0.589,0.575,0.153
+Malta,2016,Western Europe,30,6.488,1.308,1.099,0.803,0.550,0.562,0.176
+Malta,2022,Western Europe,33,6.447,1.838,1.169,0.789,0.679,0.174,0.166
+Malta,2015,Western Europe,37,6.302,1.207,1.302,0.887,0.604,0.518,0.136
+Malta,2023,Western Europe,37,6.300,1.841,1.468,0.547,0.671,0.200,0.143
+Mauritania,2023,Sub-Saharan Africa,103,4.724,1.099,0.764,0.244,0.320,0.130,0.195
+Mauritania,2019,Sub-Saharan Africa,122,4.490,0.570,1.167,0.489,0.066,0.106,0.088
+Mauritania,2017,Sub-Saharan Africa,123,4.292,0.648,1.272,0.285,0.096,0.202,0.137
+Mauritania,2015,Sub-Saharan Africa,124,4.436,0.454,0.869,0.359,0.242,0.219,0.175
+Mauritania,2018,Sub-Saharan Africa,126,4.356,0.557,1.245,0.292,0.129,0.134,0.093
+Mauritania,2020,Sub-Saharan Africa,129,4.375,0.540,1.113,0.425,0.186,0.129,0.122
+Mauritania,2016,Sub-Saharan Africa,130,4.201,0.614,0.841,0.286,0.127,0.227,0.180
+Mauritania,2022,Sub-Saharan Africa,133,4.153,1.100,0.865,0.450,0.304,0.088,0.138
+Mauritania,2021,Sub-Saharan Africa,134,4.227,0.666,0.749,0.273,0.218,0.119,0.133
+Mauritius,2020,Sub-Saharan Africa,49,6.101,1.074,1.396,0.763,0.591,0.187,0.084
+Mauritius,2021,Sub-Saharan Africa,50,6.049,1.178,0.996,0.574,0.590,0.153,0.096
+Mauritius,2022,Sub-Saharan Africa,52,6.071,1.591,1.116,0.568,0.589,0.131,0.107
+Mauritius,2018,Sub-Saharan Africa,55,5.891,1.090,1.387,0.684,0.584,0.245,0.050
+Mauritius,2019,Sub-Saharan Africa,57,5.888,1.120,1.402,0.798,0.498,0.215,0.060
+Mauritius,2023,Sub-Saharan Africa,59,5.902,1.589,1.382,0.336,0.574,0.121,0.110
+Mauritius,2017,Sub-Saharan Africa,64,5.629,1.189,1.210,0.638,0.491,0.361,0.042
+Mauritius,2016,Sub-Saharan Africa,66,5.648,1.144,0.757,0.662,0.461,0.370,0.052
+Mauritius,2015,Sub-Saharan Africa,71,5.477,1.008,0.985,0.710,0.561,0.377,0.075
+Mexico,2015,Latin America and Caribbean,14,7.187,1.021,0.915,0.814,0.482,0.141,0.213
+Mexico,2016,Latin America and Caribbean,21,6.778,1.115,0.715,0.711,0.377,0.117,0.184
+Mexico,2019,Latin America and Caribbean,23,6.595,1.070,1.323,0.861,0.433,0.074,0.073
+Mexico,2018,Latin America and Caribbean,24,6.488,1.038,1.252,0.761,0.479,0.069,0.095
+Mexico,2020,Latin America and Caribbean,24,6.465,1.024,1.226,0.832,0.554,0.083,0.083
+Mexico,2017,Latin America and Caribbean,25,6.578,1.153,1.211,0.710,0.413,0.121,0.133
+Mexico,2021,Latin America and Caribbean,36,6.317,1.126,0.830,0.634,0.585,0.092,0.089
+Mexico,2023,Latin America and Caribbean,36,6.330,1.550,1.169,0.389,0.632,0.086,0.115
+Mexico,2022,Latin America and Caribbean,46,6.128,1.552,0.886,0.623,0.621,0.092,0.115
+Moldova,2015,Central and Eastern Europe,52,5.889,0.594,1.015,0.618,0.328,0.210,0.016
+Moldova,2016,Central and Eastern Europe,55,5.897,0.692,0.831,0.523,0.252,0.200,0.019
+Moldova,2017,Central and Eastern Europe,56,5.838,0.729,1.252,0.589,0.241,0.209,0.010
+Moldova,2022,Central and Eastern Europe,62,5.857,1.417,1.008,0.597,0.561,0.102,0.028
+Moldova,2023,Central and Eastern Europe,63,5.819,1.425,1.302,0.375,0.610,0.093,0.020
+Moldova,2021,Central and Eastern Europe,65,5.766,0.985,0.888,0.542,0.536,0.137,0.013
+Moldova,2018,Central and Eastern Europe,67,5.640,0.657,1.301,0.620,0.232,0.171,0.000
+Moldova,2020,Central and Eastern Europe,70,5.608,0.708,1.237,0.713,0.390,0.174,0.014
+Moldova,2019,Central and Eastern Europe,71,5.529,0.685,1.328,0.739,0.245,0.181,0.000
+Mongolia,2023,Eastern Asia,61,5.840,1.379,1.494,0.244,0.425,0.239,0.058
+Mongolia,2022,Eastern Asia,68,5.761,1.393,1.197,0.467,0.398,0.247,0.059
+Mongolia,2021,Eastern Asia,70,5.677,0.966,1.065,0.442,0.397,0.263,0.053
+Mongolia,2020,Eastern Asia,81,5.456,0.905,1.459,0.616,0.356,0.264,0.047
+Mongolia,2019,Eastern Asia,83,5.285,0.948,1.531,0.667,0.317,0.235,0.038
+Mongolia,2018,Eastern Asia,94,5.125,0.914,1.517,0.575,0.395,0.253,0.032
+Mongolia,2017,Eastern Asia,100,4.955,1.027,1.493,0.558,0.394,0.338,0.033
+Mongolia,2015,Eastern Asia,100,4.874,0.828,1.301,0.603,0.436,0.332,0.027
+Mongolia,2016,Eastern Asia,101,4.907,0.989,1.090,0.555,0.360,0.345,0.033
+Montenegro,2023,Central and Eastern Europe,67,5.722,1.537,1.385,0.424,0.563,0.170,0.061
+Montenegro,2020,Central and Eastern Europe,72,5.546,1.010,1.266,0.839,0.303,0.149,0.098
+Montenegro,2021,Central and Eastern Europe,72,5.581,1.155,0.891,0.637,0.397,0.166,0.081
+Montenegro,2019,Central and Eastern Europe,73,5.523,1.051,1.361,0.871,0.197,0.142,0.080
+Montenegro,2022,Central and Eastern Europe,75,5.547,1.573,1.023,0.659,0.460,0.135,0.077
+Montenegro,2018,Central and Eastern Europe,81,5.347,1.017,1.279,0.729,0.259,0.111,0.081
+Montenegro,2015,Central and Eastern Europe,82,5.192,0.974,0.906,0.725,0.183,0.161,0.143
+Montenegro,2017,Central and Eastern Europe,83,5.237,1.121,1.238,0.667,0.195,0.198,0.088
+Montenegro,2016,Central and Eastern Europe,88,5.161,1.078,0.742,0.635,0.151,0.172,0.127
+Morocco,2017,Middle East and Northern Africa,84,5.235,0.878,0.775,0.598,0.408,0.032,0.088
+Morocco,2018,Middle East and Northern Africa,85,5.254,0.779,0.797,0.669,0.460,0.026,0.074
+Morocco,2019,Middle East and Northern Africa,89,5.208,0.801,0.782,0.782,0.418,0.036,0.076
+Morocco,2016,Middle East and Northern Africa,90,5.151,0.841,0.386,0.595,0.256,0.041,0.084
+Morocco,2015,Middle East and Northern Africa,92,5.013,0.735,0.641,0.610,0.417,0.072,0.085
+Morocco,2020,Middle East and Northern Africa,97,5.095,0.759,0.645,0.745,0.450,0.040,0.077
+Morocco,2022,Middle East and Northern Africa,100,5.060,1.208,0.268,0.565,0.492,0.020,0.102
+Morocco,2023,Middle East and Northern Africa,100,4.903,1.236,0.535,0.337,0.540,0.013,0.085
+Morocco,2021,Middle East and Northern Africa,106,4.918,0.792,0.219,0.558,0.477,0.034,0.088
+Mozambique,2015,Sub-Saharan Africa,94,4.971,0.083,1.026,0.091,0.340,0.223,0.156
+Mozambique,2023,Sub-Saharan Africa,97,4.954,0.570,0.885,0.000,0.625,0.161,0.192
+Mozambique,2022,Sub-Saharan Africa,101,5.048,0.578,0.660,0.191,0.593,0.185,0.200
+Mozambique,2017,Sub-Saharan Africa,113,4.550,0.234,0.871,0.107,0.481,0.322,0.179
+Mozambique,2021,Sub-Saharan Africa,115,4.794,0.183,0.634,0.196,0.608,0.228,0.163
+Mozambique,2020,Sub-Saharan Africa,120,4.624,0.179,0.955,0.324,0.561,0.220,0.163
+Mozambique,2018,Sub-Saharan Africa,123,4.417,0.198,0.902,0.173,0.531,0.206,0.158
+Mozambique,2019,Sub-Saharan Africa,123,4.466,0.204,0.986,0.390,0.494,0.197,0.138
+Myanmar,2017,Southeastern Asia,114,4.545,0.367,1.123,0.398,0.514,0.838,0.189
+Myanmar,2023,Southeastern Asia,117,4.372,1.032,1.125,0.269,0.460,0.400,0.194
+Myanmar,2016,Southeastern Asia,119,4.395,0.341,0.700,0.399,0.427,0.820,0.202
+Myanmar,2021,Southeastern Asia,126,4.426,0.666,0.713,0.341,0.601,0.520,0.178
+Myanmar,2022,Southeastern Asia,126,4.394,1.038,0.829,0.491,0.513,0.452,0.194
+Myanmar,2015,Southeastern Asia,129,4.307,0.271,0.709,0.482,0.440,0.796,0.190
+Myanmar,2018,Southeastern Asia,130,4.308,0.682,1.174,0.429,0.580,0.598,0.178
+Myanmar,2019,Southeastern Asia,131,4.360,0.710,1.181,0.555,0.525,0.566,0.172
+Myanmar,2020,Southeastern Asia,133,4.308,0.678,1.098,0.495,0.597,0.570,0.188
+Namibia,2023,Sub-Saharan Africa,105,4.631,1.289,1.126,0.145,0.383,0.069,0.071
+Namibia,2017,Sub-Saharan Africa,111,4.574,0.964,1.098,0.339,0.520,0.077,0.093
+Namibia,2016,Sub-Saharan Africa,113,4.574,0.933,0.704,0.347,0.486,0.078,0.104
+Namibia,2019,Sub-Saharan Africa,113,4.639,0.879,1.313,0.477,0.401,0.070,0.056
+Namibia,2018,Sub-Saharan Africa,119,4.441,0.874,1.281,0.365,0.519,0.051,0.064
+Namibia,2020,Sub-Saharan Africa,122,4.571,0.840,1.246,0.407,0.445,0.076,0.054
+Namibia,2021,Sub-Saharan Africa,124,4.574,0.882,0.801,0.262,0.411,0.091,0.059
+Namibia,2022,Sub-Saharan Africa,124,4.459,1.292,0.877,0.354,0.384,0.067,0.071
+Nepal,2023,Southern Asia,78,5.360,0.979,1.027,0.281,0.567,0.215,0.104
+Nepal,2022,Southern Asia,84,5.377,0.984,0.784,0.499,0.519,0.237,0.130
+Nepal,2021,Southern Asia,87,5.269,0.519,0.702,0.496,0.488,0.287,0.135
+Nepal,2020,Southern Asia,92,5.137,0.444,1.101,0.669,0.481,0.301,0.128
+Nepal,2017,Southern Asia,99,4.962,0.480,1.179,0.504,0.440,0.394,0.073
+Nepal,2019,Southern Asia,100,4.913,0.446,1.226,0.677,0.439,0.285,0.089
+Nepal,2018,Southern Asia,101,4.880,0.425,1.228,0.539,0.526,0.302,0.078
+Nepal,2016,Southern Asia,107,4.793,0.446,0.697,0.501,0.370,0.382,0.070
+Nepal,2015,Southern Asia,121,4.514,0.360,0.864,0.569,0.383,0.323,0.059
+Netherlands,2019,Western Europe,5,7.488,1.396,1.522,0.999,0.557,0.322,0.298
+Netherlands,2021,Western Europe,5,7.464,1.501,1.079,0.753,0.647,0.302,0.384
+Netherlands,2022,Western Europe,5,7.415,1.945,1.206,0.787,0.651,0.271,0.419
+Netherlands,2023,Western Europe,5,7.403,1.942,1.488,0.545,0.672,0.251,0.394
+Netherlands,2017,Western Europe,6,7.377,1.504,1.429,0.811,0.585,0.470,0.283
+Netherlands,2018,Western Europe,6,7.441,1.361,1.488,0.878,0.638,0.333,0.295
+Netherlands,2020,Western Europe,6,7.449,1.339,1.464,0.976,0.614,0.336,0.369
+Netherlands,2015,Western Europe,7,7.378,1.329,1.280,0.893,0.616,0.476,0.318
+Netherlands,2016,Western Europe,7,7.339,1.465,1.029,0.812,0.552,0.474,0.299
+New Zealand,2016,Australia and New Zealand,8,7.334,1.361,1.173,0.831,0.581,0.494,0.419
+New Zealand,2017,Australia and New Zealand,8,7.314,1.406,1.548,0.817,0.614,0.500,0.383
+New Zealand,2018,Australia and New Zealand,8,7.324,1.268,1.601,0.876,0.669,0.365,0.389
+New Zealand,2019,Australia and New Zealand,8,7.307,1.303,1.557,1.026,0.585,0.330,0.380
+New Zealand,2020,Australia and New Zealand,8,7.300,1.242,1.487,1.008,0.647,0.326,0.461
+New Zealand,2015,Australia and New Zealand,9,7.286,1.250,1.320,0.908,0.639,0.475,0.429
+New Zealand,2021,Australia and New Zealand,9,7.277,1.400,1.094,0.785,0.665,0.276,0.445
+New Zealand,2022,Australia and New Zealand,10,7.200,1.852,1.235,0.752,0.680,0.245,0.483
+New Zealand,2023,Australia and New Zealand,10,7.123,1.842,1.544,0.513,0.672,0.230,0.471
+Nicaragua,2023,Latin America and Caribbean,40,6.259,1.109,1.292,0.385,0.660,0.148,0.218
+Nicaragua,2018,Latin America and Caribbean,41,6.141,0.668,1.319,0.700,0.527,0.208,0.128
+Nicaragua,2017,Latin America and Caribbean,43,6.071,0.737,1.287,0.653,0.448,0.302,0.131
+Nicaragua,2019,Latin America and Caribbean,45,6.105,0.694,1.325,0.835,0.435,0.200,0.127
+Nicaragua,2022,Latin America and Caribbean,45,6.165,1.105,1.029,0.617,0.617,0.168,0.212
+Nicaragua,2020,Latin America and Caribbean,46,6.137,0.620,1.271,0.803,0.560,0.213,0.174
+Nicaragua,2016,Latin America and Caribbean,48,5.992,0.694,0.895,0.652,0.466,0.298,0.163
+Nicaragua,2021,Latin America and Caribbean,55,5.972,0.693,0.904,0.604,0.553,0.201,0.176
+Nicaragua,2015,Latin America and Caribbean,57,5.828,0.593,1.142,0.743,0.555,0.278,0.193
+Niger,2021,Sub-Saharan Africa,96,5.074,0.162,0.402,0.167,0.516,0.200,0.157
+Niger,2020,Sub-Saharan Africa,103,4.910,0.108,0.704,0.299,0.435,0.208,0.138
+Niger,2022,Sub-Saharan Africa,104,5.003,0.570,0.560,0.326,0.571,0.165,0.145
+Niger,2023,Sub-Saharan Africa,109,4.501,0.561,0.628,0.137,0.540,0.154,0.140
+Niger,2019,Sub-Saharan Africa,114,4.628,0.138,0.774,0.366,0.318,0.188,0.102
+Niger,2018,Sub-Saharan Africa,134,4.166,0.131,0.867,0.221,0.390,0.175,0.099
+Niger,2017,Sub-Saharan Africa,135,4.028,0.162,0.993,0.269,0.364,0.229,0.139
+Niger,2016,Sub-Saharan Africa,142,3.856,0.133,0.605,0.262,0.380,0.210,0.172
+Niger,2015,Sub-Saharan Africa,144,3.845,0.069,0.773,0.297,0.477,0.194,0.156
+Nigeria,2015,Sub-Saharan Africa,78,5.268,0.654,0.904,0.160,0.343,0.272,0.040
+Nigeria,2019,Sub-Saharan Africa,85,5.265,0.696,1.111,0.245,0.426,0.215,0.041
+Nigeria,2018,Sub-Saharan Africa,91,5.155,0.689,1.172,0.048,0.462,0.201,0.032
+Nigeria,2017,Sub-Saharan Africa,95,5.074,0.784,1.216,0.057,0.395,0.231,0.026
+Nigeria,2023,Sub-Saharan Africa,95,4.981,1.065,1.007,0.092,0.448,0.176,0.013
+Nigeria,2016,Sub-Saharan Africa,103,4.875,0.752,0.645,0.051,0.279,0.232,0.031
+Nigeria,2020,Sub-Saharan Africa,115,4.724,0.646,0.987,0.168,0.435,0.221,0.048
+Nigeria,2021,Sub-Saharan Africa,116,4.759,0.663,0.625,0.051,0.433,0.212,0.039
+Nigeria,2022,Sub-Saharan Africa,118,4.552,1.079,0.732,0.300,0.444,0.175,0.038
+North Cyprus,2017,Western Europe,61,5.810,1.347,1.186,0.835,0.471,0.267,0.155
+North Cyprus,2016,Western Europe,62,5.771,1.311,0.818,0.841,0.436,0.263,0.166
+North Cyprus,2015,Western Europe,66,5.695,1.208,1.070,0.924,0.490,0.262,0.143
+North Cyprus,2021,Western Europe,74,5.536,1.377,0.806,0.801,0.503,0.196,0.200
+North Cyprus,2020,Western Europe,76,5.536,1.213,1.183,1.026,0.478,0.199,0.200
+Norway,2017,Western Europe,1,7.537,1.616,1.534,0.797,0.635,0.362,0.316
+Norway,2018,Western Europe,2,7.594,1.456,1.582,0.861,0.686,0.286,0.340
+Norway,2019,Western Europe,3,7.554,1.488,1.582,1.028,0.603,0.271,0.341
+Norway,2015,Western Europe,4,7.522,1.459,1.331,0.885,0.670,0.347,0.365
+Norway,2016,Western Europe,4,7.498,1.577,1.127,0.796,0.596,0.379,0.358
+Norway,2020,Western Europe,5,7.488,1.424,1.495,1.008,0.670,0.288,0.434
+Norway,2021,Western Europe,6,7.392,1.543,1.108,0.782,0.703,0.249,0.427
+Norway,2023,Western Europe,7,7.315,1.994,1.521,0.544,0.752,0.212,0.463
+Norway,2022,Western Europe,8,7.365,1.997,1.239,0.786,0.728,0.217,0.474
+Oman,2015,Middle East and Northern Africa,22,6.853,1.360,1.082,0.763,0.633,0.215,0.325
+Pakistan,2020,Southern Asia,66,5.693,0.617,0.873,0.470,0.405,0.229,0.123
+Pakistan,2019,Southern Asia,67,5.653,0.677,0.886,0.535,0.313,0.220,0.098
+Pakistan,2018,Southern Asia,75,5.472,0.652,0.810,0.424,0.334,0.216,0.113
+Pakistan,2017,Southern Asia,80,5.269,0.727,0.673,0.402,0.235,0.315,0.124
+Pakistan,2015,Southern Asia,81,5.194,0.595,0.414,0.515,0.121,0.337,0.105
+Pakistan,2016,Southern Asia,92,5.132,0.688,0.261,0.403,0.146,0.312,0.139
+Pakistan,2021,Southern Asia,105,4.934,0.637,0.423,0.322,0.418,0.252,0.097
+Pakistan,2023,Southern Asia,108,4.555,1.081,0.657,0.158,0.511,0.141,0.102
+Pakistan,2022,Southern Asia,121,4.516,1.049,0.413,0.374,0.448,0.181,0.112
+Palestinian Territories,2023,Middle East and Northern Africa,99,4.908,1.144,1.309,,0.416,0.065,0.067
+Palestinian Territories,2017,Middle East and Northern Africa,103,4.775,0.716,1.156,0.566,0.255,0.114,0.089
+Palestinian Territories,2018,Middle East and Northern Africa,104,4.743,0.642,1.217,0.602,0.266,0.086,0.076
+Palestinian Territories,2015,Middle East and Northern Africa,108,4.715,0.599,0.926,0.660,0.245,0.113,0.129
+Palestinian Territories,2016,Middle East and Northern Africa,108,4.754,0.670,0.716,0.568,0.177,0.112,0.106
+Palestinian Territories,2019,Middle East and Northern Africa,110,4.696,0.657,1.247,0.672,0.225,0.103,0.066
+Palestinian Territories,2022,Middle East and Northern Africa,122,4.483,1.148,0.957,0.521,0.336,0.073,0.079
+Palestinian Territories,2020,Middle East and Northern Africa,125,4.553,0.588,1.195,0.614,0.299,0.092,0.072
+Palestinian Territories,2021,Middle East and Northern Africa,125,4.517,0.646,0.819,0.434,0.330,0.082,0.075
+Panama,2015,Latin America and Caribbean,25,6.786,1.064,1.199,0.797,0.542,0.244,0.093
+Panama,2016,Latin America and Caribbean,25,6.701,1.183,0.989,0.708,0.489,0.242,0.084
+Panama,2018,Latin America and Caribbean,27,6.430,1.112,1.438,0.759,0.597,0.125,0.063
+Panama,2017,Latin America and Caribbean,30,6.452,1.234,1.373,0.706,0.550,0.211,0.071
+Panama,2019,Latin America and Caribbean,31,6.321,1.149,1.442,0.910,0.516,0.109,0.054
+Panama,2020,Latin America and Caribbean,36,6.305,1.098,1.376,0.879,0.580,0.097,0.054
+Panama,2022,Latin America and Caribbean,37,6.309,1.715,1.107,0.709,0.592,0.049,0.051
+Panama,2023,Latin America and Caribbean,38,6.265,1.714,1.402,0.475,0.630,0.065,0.036
+Panama,2021,Latin America and Caribbean,41,6.180,1.298,0.976,0.667,0.596,0.079,0.053
+Paraguay,2015,Latin America and Caribbean,53,5.878,0.760,1.305,0.661,0.539,0.342,0.082
+Paraguay,2019,Latin America and Caribbean,63,5.743,0.855,1.475,0.777,0.514,0.184,0.080
+Paraguay,2018,Latin America and Caribbean,64,5.681,0.835,1.522,0.615,0.541,0.162,0.074
+Paraguay,2023,Latin America and Caribbean,66,5.738,1.428,1.427,0.392,0.678,0.148,0.062
+Paraguay,2020,Latin America and Caribbean,67,5.692,0.898,1.368,0.736,0.587,0.204,0.065
+Paraguay,2016,Latin America and Caribbean,70,5.538,0.894,1.111,0.583,0.462,0.253,0.074
+Paraguay,2017,Latin America and Caribbean,70,5.493,0.933,1.507,0.579,0.474,0.224,0.091
+Paraguay,2021,Latin America and Caribbean,71,5.653,0.983,0.970,0.549,0.602,0.206,0.037
+Paraguay,2022,Latin America and Caribbean,73,5.578,1.409,1.130,0.624,0.629,0.171,0.059
+Peru,2015,Latin America and Caribbean,58,5.824,0.900,0.975,0.730,0.415,0.150,0.060
+Peru,2017,Latin America and Caribbean,63,5.715,1.035,1.219,0.630,0.450,0.127,0.047
+Peru,2020,Latin America and Caribbean,63,5.797,0.919,1.208,0.824,0.513,0.092,0.027
+Peru,2021,Latin America and Caribbean,63,5.840,0.986,0.833,0.623,0.536,0.087,0.031
+Peru,2016,Latin America and Caribbean,64,5.743,0.996,0.813,0.630,0.375,0.145,0.053
+Peru,2018,Latin America and Caribbean,65,5.663,0.934,1.249,0.674,0.530,0.092,0.034
+Peru,2019,Latin America and Caribbean,65,5.697,0.960,1.274,0.854,0.455,0.083,0.027
+Peru,2022,Latin America and Caribbean,74,5.559,1.397,0.865,0.735,0.545,0.090,0.037
+Peru,2023,Latin America and Caribbean,75,5.526,1.390,1.153,0.499,0.549,0.073,0.027
+Philippines,2020,Southeastern Asia,52,6.006,0.775,1.245,0.602,0.622,0.129,0.130
+Philippines,2022,Southeastern Asia,60,5.904,1.268,0.912,0.514,0.678,0.107,0.142
+Philippines,2021,Southeastern Asia,61,5.880,0.853,0.828,0.426,0.651,0.125,0.126
+Philippines,2019,Southeastern Asia,69,5.631,0.807,1.293,0.657,0.558,0.117,0.107
+Philippines,2018,Southeastern Asia,71,5.524,0.775,1.312,0.513,0.643,0.120,0.105
+Philippines,2017,Southeastern Asia,72,5.430,0.858,1.254,0.468,0.585,0.194,0.099
+Philippines,2023,Southeastern Asia,76,5.523,1.238,1.108,0.286,0.714,0.104,0.141
+Philippines,2016,Southeastern Asia,82,5.279,0.812,0.879,0.470,0.549,0.217,0.118
+Philippines,2015,Southeastern Asia,90,5.073,0.705,1.035,0.581,0.625,0.250,0.123
+Poland,2023,Central and Eastern Europe,39,6.260,1.767,1.474,0.477,0.511,0.120,0.139
+Poland,2019,Central and Eastern Europe,40,6.182,1.206,1.438,0.884,0.483,0.117,0.050
+Poland,2018,Central and Eastern Europe,42,6.123,1.176,1.448,0.781,0.546,0.108,0.064
+Poland,2020,Central and Eastern Europe,43,6.186,1.169,1.310,0.868,0.558,0.063,0.161
+Poland,2021,Central and Eastern Europe,44,6.166,1.309,0.982,0.668,0.558,0.080,0.130
+Poland,2017,Central and Eastern Europe,46,5.973,1.292,1.446,0.699,0.520,0.158,0.059
+Poland,2022,Central and Eastern Europe,48,6.123,1.758,1.174,0.712,0.523,0.124,0.140
+Poland,2016,Central and Eastern Europe,57,5.835,1.246,1.047,0.691,0.452,0.144,0.055
+Poland,2015,Central and Eastern Europe,60,5.791,1.126,1.279,0.779,0.531,0.168,0.042
+Portugal,2022,Western Europe,56,6.016,1.760,1.078,0.777,0.655,0.016,0.039
+Portugal,2023,Western Europe,56,5.968,1.758,1.356,0.537,0.693,0.031,0.037
+Portugal,2021,Western Europe,58,5.929,1.323,0.939,0.760,0.621,0.029,0.033
+Portugal,2020,Western Europe,59,5.911,1.169,1.340,0.979,0.590,0.053,0.028
+Portugal,2019,Western Europe,66,5.693,1.221,1.431,0.999,0.508,0.047,0.025
+Portugal,2018,Western Europe,77,5.410,1.188,1.429,0.884,0.562,0.055,0.017
+Portugal,2015,Western Europe,88,5.102,1.160,1.139,0.875,0.515,0.137,0.011
+Portugal,2017,Western Europe,89,5.195,1.315,1.367,0.796,0.498,0.095,0.016
+Portugal,2016,Western Europe,94,5.123,1.276,0.944,0.794,0.447,0.117,0.015
+Puerto Rico,2016,Latin America and Caribbean,15,7.039,1.359,1.081,0.778,0.468,0.222,0.123
+Qatar,2015,Middle East and Northern Africa,28,6.611,1.690,1.079,0.797,0.640,0.326,0.522
+Qatar,2019,Middle East and Northern Africa,29,6.374,1.684,1.313,0.871,0.555,0.220,0.167
+Qatar,2018,Middle East and Northern Africa,32,6.374,1.649,1.303,0.748,0.654,0.256,0.171
+Qatar,2017,Middle East and Northern Africa,35,6.375,1.871,1.274,0.710,0.604,0.330,0.439
+Qatar,2016,Middle East and Northern Africa,36,6.375,1.824,0.880,0.717,0.567,0.324,0.480
+Romania,2023,Central and Eastern Europe,24,6.589,1.726,1.280,0.423,0.631,0.044,0.000
+Romania,2022,Central and Eastern Europe,28,6.477,1.719,1.006,0.655,0.605,0.039,0.006
+Romania,2021,Central and Eastern Europe,46,6.140,1.275,0.832,0.595,0.564,0.045,0.001
+Romania,2020,Central and Eastern Europe,47,6.124,1.120,1.194,0.792,0.535,0.068,0.001
+Romania,2019,Central and Eastern Europe,48,6.070,1.162,1.232,0.825,0.462,0.083,0.005
+Romania,2018,Central and Eastern Europe,52,5.945,1.116,1.219,0.726,0.528,0.088,0.001
+Romania,2017,Central and Eastern Europe,57,5.825,1.218,1.150,0.685,0.457,0.134,0.004
+Romania,2016,Central and Eastern Europe,71,5.528,1.170,0.728,0.676,0.367,0.129,0.007
+Romania,2015,Central and Eastern Europe,86,5.124,1.043,0.886,0.769,0.351,0.137,0.006
+Russia,2017,Central and Eastern Europe,49,5.963,1.282,1.469,0.547,0.374,0.052,0.033
+Russia,2016,Central and Eastern Europe,56,5.856,1.232,1.053,0.590,0.327,0.027,0.036
+Russia,2018,Central and Eastern Europe,59,5.810,1.151,1.479,0.599,0.399,0.065,0.025
+Russia,2015,Central and Eastern Europe,64,5.716,1.138,1.236,0.669,0.367,0.002,0.030
+Russia,2019,Central and Eastern Europe,68,5.648,1.183,1.452,0.726,0.334,0.082,0.031
+Russia,2023,Central and Eastern Europe,70,5.661,1.680,1.383,0.366,0.449,0.120,0.091
+Russia,2020,Central and Eastern Europe,73,5.546,1.127,1.379,0.680,0.399,0.099,0.046
+Russia,2021,Central and Eastern Europe,76,5.477,1.241,0.992,0.511,0.409,0.115,0.060
+Russia,2022,Central and Eastern Europe,80,5.459,1.685,1.095,0.586,0.401,0.117,0.080
+Rwanda,2022,Sub-Saharan Africa,143,3.268,0.785,0.133,0.462,0.621,0.187,0.544
+Rwanda,2021,Sub-Saharan Africa,147,3.415,0.364,0.202,0.407,0.627,0.227,0.493
+Rwanda,2020,Sub-Saharan Africa,150,3.312,0.343,0.523,0.572,0.604,0.236,0.486
+Rwanda,2017,Sub-Saharan Africa,151,3.471,0.369,0.946,0.326,0.582,0.253,0.455
+Rwanda,2018,Sub-Saharan Africa,151,3.408,0.332,0.896,0.400,0.636,0.200,0.444
+Rwanda,2016,Sub-Saharan Africa,152,3.515,0.328,0.616,0.319,0.543,0.236,0.505
+Rwanda,2019,Sub-Saharan Africa,152,3.334,0.359,0.711,0.614,0.555,0.217,0.411
+Rwanda,2015,Sub-Saharan Africa,154,3.465,0.222,0.774,0.429,0.592,0.226,0.552
+Saudi Arabia,2022,Middle East and Northern Africa,25,6.523,1.870,1.092,0.577,0.651,0.078,0.180
+Saudi Arabia,2021,Middle East and Northern Africa,26,6.494,1.435,0.964,0.571,0.603,0.090,0.163
+Saudi Arabia,2020,Middle East and Northern Africa,27,6.406,1.334,1.310,0.760,0.548,0.087,0.163
+Saudi Arabia,2019,Middle East and Northern Africa,28,6.375,1.403,1.357,0.795,0.439,0.080,0.132
+Saudi Arabia,2023,Middle East and Northern Africa,30,6.463,1.861,1.370,0.351,0.682,0.093,0.170
+Saudi Arabia,2018,Middle East and Northern Africa,33,6.371,1.379,1.331,0.633,0.509,0.098,0.127
+Saudi Arabia,2016,Middle East and Northern Africa,34,6.379,1.490,0.848,0.593,0.379,0.155,0.300
+Saudi Arabia,2015,Middle East and Northern Africa,35,6.411,1.395,1.084,0.720,0.310,0.137,0.325
+Saudi Arabia,2017,Middle East and Northern Africa,37,6.344,1.531,1.287,0.590,0.450,0.148,0.273
+Senegal,2021,Sub-Saharan Africa,92,5.132,0.518,0.558,0.357,0.381,0.158,0.088
+Senegal,2020,Sub-Saharan Africa,101,4.981,0.504,0.955,0.518,0.352,0.164,0.082
+Senegal,2023,Sub-Saharan Africa,102,4.855,0.943,0.727,0.231,0.519,0.142,0.060
+Senegal,2022,Sub-Saharan Africa,103,5.046,0.933,0.530,0.447,0.494,0.143,0.081
+Senegal,2018,Sub-Saharan Africa,109,4.631,0.429,1.117,0.433,0.406,0.138,0.082
+Senegal,2019,Sub-Saharan Africa,111,4.681,0.450,1.134,0.571,0.292,0.153,0.072
+Senegal,2017,Sub-Saharan Africa,115,4.535,0.479,1.180,0.409,0.378,0.183,0.115
+Senegal,2016,Sub-Saharan Africa,128,4.219,0.443,0.774,0.405,0.311,0.191,0.117
+Senegal,2015,Sub-Saharan Africa,142,3.904,0.365,0.976,0.435,0.368,0.208,0.107
+Serbia,2022,Central and Eastern Europe,43,6.178,1.550,1.086,0.658,0.546,0.219,0.088
+Serbia,2023,Central and Eastern Europe,45,6.144,1.552,1.343,0.424,0.617,0.246,0.081
+Serbia,2021,Central and Eastern Europe,48,6.078,1.101,0.924,0.634,0.482,0.189,0.066
+Serbia,2020,Central and Eastern Europe,64,5.778,0.988,1.327,0.828,0.395,0.150,0.059
+Serbia,2019,Central and Eastern Europe,70,5.603,1.004,1.383,0.854,0.282,0.137,0.039
+Serbia,2017,Central and Eastern Europe,73,5.395,1.069,1.258,0.651,0.209,0.220,0.041
+Serbia,2018,Central and Eastern Europe,78,5.398,0.975,1.369,0.685,0.288,0.134,0.043
+Serbia,2016,Central and Eastern Europe,86,5.177,1.034,0.813,0.646,0.157,0.207,0.043
+Serbia,2015,Central and Eastern Europe,87,5.123,0.921,1.010,0.748,0.201,0.192,0.026
+Sierra Leone,2017,Sub-Saharan Africa,106,4.709,0.368,0.984,0.006,0.319,0.293,0.071
+Sierra Leone,2016,Sub-Saharan Africa,111,4.635,0.365,0.628,0.000,0.307,0.239,0.082
+Sierra Leone,2018,Sub-Saharan Africa,113,4.571,0.256,0.813,0.000,0.355,0.238,0.053
+Sierra Leone,2015,Sub-Saharan Africa,123,4.507,0.330,0.956,0.000,0.408,0.215,0.088
+Sierra Leone,2019,Sub-Saharan Africa,129,4.374,0.268,0.841,0.242,0.309,0.252,0.045
+Sierra Leone,2023,Sub-Saharan Africa,135,3.138,0.670,0.540,0.092,0.371,0.193,0.051
+Sierra Leone,2021,Sub-Saharan Africa,138,3.849,0.279,0.377,0.100,0.408,0.243,0.047
+Sierra Leone,2020,Sub-Saharan Africa,139,3.926,0.241,0.748,0.204,0.382,0.258,0.048
+Sierra Leone,2022,Sub-Saharan Africa,140,3.574,0.686,0.416,0.273,0.387,0.202,0.055
+Singapore,2016,Southeastern Asia,22,6.739,1.646,0.868,0.947,0.488,0.327,0.470
+Singapore,2015,Southeastern Asia,24,6.798,1.522,1.020,1.025,0.543,0.311,0.492
+Singapore,2023,Southeastern Asia,25,6.587,2.168,1.354,0.607,0.660,0.170,0.561
+Singapore,2017,Southeastern Asia,26,6.572,1.692,1.354,0.949,0.550,0.346,0.464
+Singapore,2022,Southeastern Asia,27,6.480,2.149,1.127,0.851,0.672,0.163,0.587
+Singapore,2020,Southeastern Asia,31,6.377,1.520,1.395,1.138,0.635,0.219,0.533
+Singapore,2021,Southeastern Asia,32,6.377,1.695,1.019,0.897,0.664,0.176,0.547
+Singapore,2018,Southeastern Asia,34,6.343,1.529,1.451,1.008,0.631,0.261,0.457
+Singapore,2019,Southeastern Asia,34,6.262,1.572,1.463,1.141,0.556,0.271,0.453
+Slovakia,2023,Central and Eastern Europe,29,6.469,1.731,1.544,0.472,0.494,0.128,0.022
+Slovakia,2021,Central and Eastern Europe,34,6.331,1.304,1.066,0.653,0.468,0.107,0.018
+Slovakia,2022,Central and Eastern Europe,35,6.391,1.736,1.232,0.707,0.479,0.118,0.025
+Slovakia,2020,Central and Eastern Europe,37,6.281,1.195,1.424,0.853,0.424,0.117,0.011
+Slovakia,2019,Central and Eastern Europe,38,6.198,1.246,1.504,0.881,0.334,0.121,0.014
+Slovakia,2018,Central and Eastern Europe,39,6.173,1.210,1.537,0.776,0.354,0.118,0.014
+Slovakia,2017,Central and Eastern Europe,40,6.098,1.325,1.505,0.713,0.296,0.137,0.024
+Slovakia,2015,Central and Eastern Europe,45,5.995,1.169,1.270,0.789,0.318,0.169,0.034
+Slovakia,2016,Central and Eastern Europe,45,6.078,1.280,1.083,0.704,0.234,0.138,0.029
+Slovenia,2022,Central and Eastern Europe,22,6.630,1.810,1.249,0.769,0.685,0.118,0.115
+Slovenia,2023,Central and Eastern Europe,22,6.650,1.815,1.539,0.532,0.707,0.144,0.113
+Slovenia,2021,Central and Eastern Europe,29,6.461,1.360,1.093,0.722,0.690,0.122,0.085
+Slovenia,2020,Central and Eastern Europe,33,6.363,1.209,1.465,0.933,0.647,0.146,0.077
+Slovenia,2019,Central and Eastern Europe,44,6.118,1.258,1.523,0.953,0.564,0.144,0.057
+Slovenia,2018,Central and Eastern Europe,51,5.948,1.219,1.506,0.856,0.633,0.160,0.051
+Slovenia,2015,Central and Eastern Europe,55,5.848,1.185,1.274,0.873,0.609,0.253,0.038
+Slovenia,2017,Central and Eastern Europe,62,5.758,1.341,1.453,0.791,0.573,0.243,0.045
+Slovenia,2016,Central and Eastern Europe,63,5.768,1.299,1.056,0.792,0.532,0.257,0.036
+Somalia,2016,Sub-Saharan Africa,76,5.440,0.000,0.336,0.115,0.568,0.272,0.312
+Somaliland region,2015,Sub-Saharan Africa,91,5.057,0.188,0.952,0.439,0.466,0.503,0.399
+Somaliland region,2017,Sub-Saharan Africa,93,5.151,0.023,0.721,0.114,0.602,0.292,0.282
+Somaliland Region,2016,Sub-Saharan Africa,97,5.057,0.256,0.759,0.331,0.391,0.515,0.368
+Somaliland region,2018,Sub-Saharan Africa,98,4.982,0.000,0.712,0.115,0.674,0.238,0.282
+Somaliland region,2019,Sub-Saharan Africa,112,4.668,0.000,0.698,0.268,0.559,0.243,0.270
+South Africa,2023,Sub-Saharan Africa,85,5.275,1.417,1.428,0.149,0.464,0.090,0.019
+South Africa,2022,Sub-Saharan Africa,91,5.194,1.425,1.088,0.361,0.442,0.089,0.046
+South Africa,2017,Sub-Saharan Africa,101,4.829,1.055,1.385,0.187,0.479,0.139,0.073
+South Africa,2021,Sub-Saharan Africa,103,4.956,0.967,0.895,0.265,0.447,0.144,0.051
+South Africa,2018,Sub-Saharan Africa,105,4.724,0.940,1.410,0.330,0.516,0.103,0.056
+South Africa,2019,Sub-Saharan Africa,106,4.722,0.960,1.351,0.469,0.389,0.130,0.055
+South Africa,2020,Sub-Saharan Africa,109,4.814,0.902,1.259,0.407,0.435,0.126,0.060
+South Africa,2015,Sub-Saharan Africa,113,4.642,0.920,1.185,0.277,0.332,0.120,0.089
+South Africa,2016,Sub-Saharan Africa,116,4.459,1.024,0.961,0.186,0.425,0.137,0.084
+South Korea,2015,Eastern Asia,47,5.984,1.245,0.958,0.965,0.332,0.186,0.079
+South Korea,2019,Eastern Asia,54,5.895,1.301,1.219,1.036,0.159,0.175,0.056
+South Korea,2017,Eastern Asia,55,5.838,1.402,1.128,0.900,0.258,0.207,0.063
+South Korea,2016,Eastern Asia,57,5.835,1.359,0.722,0.886,0.252,0.188,0.077
+South Korea,2018,Eastern Asia,57,5.875,1.266,1.204,0.955,0.244,0.175,0.051
+South Korea,2023,Eastern Asia,57,5.951,1.853,1.188,0.603,0.446,0.112,0.163
+South Korea,2022,Eastern Asia,59,5.935,1.851,0.886,0.841,0.414,0.111,0.176
+South Korea,2020,Eastern Asia,61,5.872,1.245,1.134,1.023,0.259,0.170,0.095
+South Korea,2021,Eastern Asia,62,5.845,1.403,0.758,0.801,0.353,0.134,0.135
+South Sudan,2016,Sub-Saharan Africa,143,3.832,0.394,0.185,0.158,0.197,0.259,0.130
+South Sudan,2017,Sub-Saharan Africa,147,3.591,0.397,0.601,0.163,0.147,0.286,0.117
+Spain,2021,Western Europe,27,6.491,1.375,1.057,0.826,0.462,0.135,0.124
+Spain,2020,Western Europe,28,6.401,1.231,1.421,1.051,0.426,0.165,0.110
+Spain,2022,Western Europe,29,6.476,1.808,1.211,0.808,0.505,0.101,0.149
+Spain,2019,Western Europe,30,6.354,1.286,1.484,1.062,0.362,0.153,0.079
+Spain,2023,Western Europe,32,6.436,1.798,1.491,0.567,0.533,0.101,0.157
+Spain,2017,Western Europe,34,6.403,1.384,1.532,0.889,0.409,0.190,0.071
+Spain,2015,Western Europe,36,6.329,1.230,1.314,0.956,0.460,0.182,0.064
+Spain,2018,Western Europe,36,6.310,1.251,1.538,0.965,0.449,0.142,0.074
+Spain,2016,Western Europe,37,6.361,1.343,1.129,0.879,0.375,0.177,0.061
+Sri Lanka,2023,Southern Asia,112,4.442,1.422,1.224,0.426,0.539,0.120,0.086
+Sri Lanka,2018,Southern Asia,116,4.471,0.918,1.314,0.672,0.585,0.307,0.050
+Sri Lanka,2016,Southern Asia,117,4.415,0.973,0.848,0.620,0.508,0.470,0.080
+Sri Lanka,2017,Southern Asia,120,4.440,1.010,1.260,0.625,0.561,0.491,0.074
+Sri Lanka,2022,Southern Asia,127,4.362,1.415,0.934,0.660,0.529,0.150,0.079
+Sri Lanka,2021,Southern Asia,129,4.325,0.990,0.820,0.593,0.559,0.239,0.049
+Sri Lanka,2019,Southern Asia,130,4.366,0.949,1.265,0.831,0.470,0.244,0.047
+Sri Lanka,2020,Southern Asia,130,4.327,0.898,1.195,0.792,0.529,0.253,0.049
+Sri Lanka,2015,Southern Asia,132,4.271,0.835,1.019,0.708,0.537,0.408,0.092
+Sudan,2015,Sub-Saharan Africa,118,4.550,0.521,1.014,0.369,0.101,0.191,0.147
+Sudan,2017,Sub-Saharan Africa,130,4.139,0.660,1.214,0.291,0.015,0.182,0.090
+Sudan,2016,Sub-Saharan Africa,133,4.139,0.631,0.819,0.298,0.000,0.181,0.100
+Sudan,2020,Sub-Saharan Africa,152,2.817,0.289,0.553,0.209,0.066,0.210,0.111
+Sudan,2018,Sub-Saharan Africa,154,3.254,0.337,0.608,0.177,0.112,0.224,0.106
+Sudan,2019,Sub-Saharan Africa,156,2.853,0.306,0.575,0.295,0.010,0.202,0.091
+Suriname,2015,Latin America and Caribbean,40,6.269,0.995,0.972,0.608,0.597,0.170,0.136
+Suriname,2016,Latin America and Caribbean,40,6.269,1.097,0.779,0.509,0.522,0.167,0.127
+Swaziland,2015,Sub-Saharan Africa,101,4.867,0.712,1.073,0.076,0.307,0.183,0.031
+Swaziland,2021,Sub-Saharan Africa,130,4.308,0.849,0.693,0.074,0.323,0.067,0.147
+Swaziland,2020,Sub-Saharan Africa,132,4.308,0.828,1.065,0.216,0.300,0.067,0.147
+Swaziland,2019,Sub-Saharan Africa,135,4.212,0.811,1.149,0.000,0.313,0.074,0.135
+Sweden,2023,Western Europe,6,7.395,1.921,1.510,0.562,0.754,0.225,0.520
+Sweden,2019,Western Europe,7,7.343,1.387,1.487,1.009,0.574,0.267,0.373
+Sweden,2020,Western Europe,7,7.353,1.322,1.433,0.986,0.650,0.273,0.442
+Sweden,2021,Western Europe,7,7.363,1.478,1.062,0.763,0.685,0.244,0.448
+Sweden,2022,Western Europe,7,7.384,1.920,1.204,0.803,0.724,0.218,0.512
+Sweden,2015,Western Europe,8,7.364,1.332,1.289,0.911,0.660,0.363,0.438
+Sweden,2017,Western Europe,9,7.284,1.494,1.478,0.831,0.613,0.385,0.384
+Sweden,2018,Western Europe,9,7.314,1.355,1.501,0.913,0.659,0.285,0.383
+Sweden,2016,Western Europe,10,7.291,1.452,1.088,0.831,0.582,0.383,0.409
+Switzerland,2015,Western Europe,1,7.587,1.397,1.350,0.941,0.666,0.297,0.420
+Switzerland,2016,Western Europe,2,7.509,1.527,1.145,0.863,0.586,0.281,0.412
+Switzerland,2020,Western Europe,3,7.560,1.391,1.472,1.041,0.629,0.269,0.408
+Switzerland,2021,Western Europe,3,7.571,1.566,1.079,0.816,0.653,0.204,0.413
+Switzerland,2017,Western Europe,4,7.494,1.565,1.517,0.858,0.620,0.291,0.367
+Switzerland,2022,Western Europe,4,7.512,2.026,1.226,0.822,0.677,0.147,0.461
+Switzerland,2018,Western Europe,5,7.487,1.420,1.549,0.927,0.660,0.256,0.357
+Switzerland,2019,Western Europe,6,7.480,1.452,1.526,1.052,0.572,0.263,0.343
+Switzerland,2023,Western Europe,8,7.240,2.022,1.463,0.582,0.678,0.151,0.475
+Syria,2019,Middle East and Northern Africa,149,3.462,0.619,0.378,0.440,0.013,0.331,0.141
+Syria,2018,Middle East and Northern Africa,150,3.462,0.689,0.382,0.539,0.088,0.376,0.144
+Syria,2017,Middle East and Northern Africa,152,3.462,0.777,0.396,0.501,0.082,0.494,0.151
+Syria,2016,Middle East and Northern Africa,156,3.069,0.747,0.149,0.630,0.069,0.484,0.172
+Syria,2015,Middle East and Northern Africa,156,3.006,0.663,0.475,0.722,0.157,0.472,0.189
+Taiwan,2021,Eastern Asia,24,6.584,1.480,0.982,0.665,0.490,0.142,0.139
+Taiwan,2019,Eastern Asia,25,6.446,1.368,1.430,0.914,0.351,0.242,0.097
+Taiwan,2020,Eastern Asia,25,6.455,1.327,1.358,0.878,0.449,0.151,0.132
+Taiwan,2018,Eastern Asia,26,6.441,1.365,1.436,0.857,0.418,0.151,0.078
+Taiwan,2022,Eastern Asia,26,6.512,1.897,1.095,0.733,0.542,0.075,0.168
+Taiwan,2023,Eastern Asia,27,6.535,1.890,1.372,0.492,0.562,0.067,0.178
+Taiwan,2017,Eastern Asia,33,6.422,1.434,1.385,0.794,0.361,0.258,0.064
+Taiwan,2016,Eastern Asia,34,6.379,1.397,0.926,0.796,0.324,0.255,0.066
+Taiwan,2015,Eastern Asia,38,6.298,1.291,1.076,0.875,0.397,0.254,0.081
+Tajikistan,2020,Central and Eastern Europe,71,5.556,0.475,1.218,0.681,0.521,0.182,0.222
+Tajikistan,2019,Central and Eastern Europe,74,5.467,0.493,1.098,0.718,0.389,0.230,0.144
+Tajikistan,2021,Central and Eastern Europe,78,5.466,0.508,0.895,0.498,0.548,0.152,0.247
+Tajikistan,2023,Central and Eastern Europe,80,5.330,0.972,1.248,0.291,0.599,0.104,0.292
+Tajikistan,2022,Central and Eastern Europe,83,5.377,0.966,1.005,0.518,0.572,0.118,0.304
+Tajikistan,2018,Central and Eastern Europe,88,5.199,0.474,1.166,0.598,0.292,0.187,0.034
+Tajikistan,2017,Central and Eastern Europe,96,5.041,0.525,1.271,0.529,0.472,0.249,0.146
+Tajikistan,2016,Central and Eastern Europe,100,4.996,0.488,0.756,0.531,0.434,0.260,0.135
+Tajikistan,2015,Central and Eastern Europe,106,4.786,0.390,0.856,0.574,0.472,0.230,0.151
+Tanzania,2023,Sub-Saharan Africa,129,3.694,0.836,0.787,0.214,0.607,0.234,0.269
+Tanzania,2022,Sub-Saharan Africa,139,3.702,0.848,0.597,0.425,0.578,0.248,0.270
+Tanzania,2021,Sub-Saharan Africa,142,3.623,0.433,0.540,0.300,0.549,0.307,0.231
+Tanzania,2015,Sub-Saharan Africa,146,3.781,0.285,1.003,0.382,0.329,0.344,0.057
+Tanzania,2020,Sub-Saharan Africa,148,3.476,0.457,0.873,0.443,0.509,0.272,0.204
+Tanzania,2016,Sub-Saharan Africa,149,3.666,0.472,0.776,0.357,0.318,0.315,0.051
+Tanzania,2017,Sub-Saharan Africa,153,3.349,0.511,1.042,0.365,0.390,0.354,0.066
+Tanzania,2018,Sub-Saharan Africa,153,3.303,0.455,0.991,0.381,0.481,0.270,0.097
+Tanzania,2019,Sub-Saharan Africa,153,3.231,0.476,0.885,0.499,0.417,0.276,0.147
+Thailand,2017,Southeastern Asia,32,6.424,1.128,1.426,0.647,0.580,0.572,0.032
+Thailand,2016,Southeastern Asia,33,6.474,1.089,1.045,0.649,0.496,0.587,0.028
+Thailand,2015,Southeastern Asia,34,6.455,0.967,1.265,0.739,0.557,0.576,0.032
+Thailand,2018,Southeastern Asia,46,6.072,1.016,1.417,0.707,0.637,0.364,0.029
+Thailand,2019,Southeastern Asia,52,6.008,1.050,1.409,0.828,0.557,0.359,0.028
+Thailand,2020,Southeastern Asia,54,5.999,1.007,1.348,0.794,0.609,0.377,0.032
+Thailand,2021,Southeastern Asia,54,5.985,1.107,0.957,0.596,0.611,0.375,0.028
+Thailand,2023,Southeastern Asia,60,5.843,1.515,1.344,0.461,0.624,0.291,0.013
+Thailand,2022,Southeastern Asia,61,5.891,1.535,1.096,0.697,0.617,0.321,0.026
+Togo,2023,Sub-Saharan Africa,122,4.137,0.770,0.642,0.161,0.367,0.149,0.136
+Togo,2020,Sub-Saharan Africa,135,4.187,0.268,0.548,0.343,0.304,0.201,0.115
+Togo,2022,Sub-Saharan Africa,135,4.112,0.771,0.322,0.360,0.292,0.174,0.132
+Togo,2021,Sub-Saharan Africa,136,4.107,0.254,0.239,0.203,0.289,0.209,0.107
+Togo,2018,Sub-Saharan Africa,139,3.999,0.259,0.474,0.253,0.434,0.158,0.101
+Togo,2019,Sub-Saharan Africa,139,4.085,0.275,0.572,0.410,0.293,0.177,0.085
+Togo,2017,Sub-Saharan Africa,150,3.495,0.305,0.432,0.247,0.380,0.197,0.096
+Togo,2016,Sub-Saharan Africa,155,3.303,0.281,0.000,0.248,0.347,0.175,0.116
+Togo,2015,Sub-Saharan Africa,158,2.839,0.209,0.140,0.284,0.365,0.167,0.107
+Trinidad and Tobago,2017,Latin America and Caribbean,38,6.168,1.361,1.380,0.520,0.519,0.325,0.009
+Trinidad and Tobago,2018,Latin America and Caribbean,38,6.192,1.223,1.492,0.564,0.575,0.171,0.019
+Trinidad and Tobago,2019,Latin America and Caribbean,39,6.192,1.231,1.477,0.713,0.489,0.185,0.016
+Trinidad and Tobago,2015,Latin America and Caribbean,41,6.168,1.212,1.184,0.615,0.559,0.318,0.011
+Trinidad and Tobago,2020,Latin America and Caribbean,42,6.192,1.168,1.407,0.659,0.553,0.199,0.015
+Trinidad and Tobago,2016,Latin America and Caribbean,43,6.168,1.326,0.986,0.526,0.485,0.319,0.012
+Tunisia,2016,Middle East and Northern Africa,98,5.045,0.977,0.432,0.596,0.236,0.039,0.082
+Tunisia,2017,Middle East and Northern Africa,102,4.805,1.007,0.868,0.613,0.290,0.050,0.087
+Tunisia,2015,Middle East and Northern Africa,107,4.739,0.881,0.604,0.738,0.263,0.064,0.064
+Tunisia,2023,Middle East and Northern Africa,110,4.497,1.333,0.981,0.422,0.259,0.022,0.016
+Tunisia,2018,Middle East and Northern Africa,111,4.592,0.900,0.906,0.690,0.271,0.040,0.063
+Tunisia,2022,Middle East and Northern Africa,120,4.516,1.350,0.596,0.656,0.316,0.029,0.029
+Tunisia,2021,Middle East and Northern Africa,122,4.596,0.919,0.515,0.590,0.334,0.057,0.044
+Tunisia,2019,Middle East and Northern Africa,124,4.461,0.921,1.000,0.815,0.167,0.059,0.055
+Tunisia,2020,Middle East and Northern Africa,128,4.392,0.875,0.872,0.781,0.236,0.056,0.044
+Turkey,2017,Middle East and Northern Africa,69,5.500,1.198,1.338,0.638,0.301,0.047,0.100
+Turkey,2018,Middle East and Northern Africa,74,5.483,1.148,1.380,0.686,0.324,0.106,0.109
+Turkey,2015,Middle East and Northern Africa,76,5.332,1.061,0.946,0.732,0.228,0.123,0.157
+Turkey,2016,Middle East and Northern Africa,78,5.389,1.165,0.877,0.647,0.239,0.047,0.123
+Turkey,2019,Middle East and Northern Africa,79,5.373,1.183,1.360,0.808,0.195,0.083,0.106
+Turkey,2020,Middle East and Northern Africa,93,5.132,1.127,1.197,0.781,0.254,0.086,0.121
+Turkey,2021,Middle East and Northern Africa,104,4.948,1.260,0.809,0.590,0.236,0.097,0.104
+Turkey,2023,Middle East and Northern Africa,106,4.614,1.714,1.148,0.467,0.125,0.095,0.096
+Turkey,2022,Middle East and Northern Africa,112,4.744,1.707,0.865,0.702,0.209,0.087,0.115
+Turkmenistan,2017,Central and Eastern Europe,59,5.822,1.131,1.493,0.438,0.418,0.250,0.259
+Turkmenistan,2016,Central and Eastern Europe,65,5.658,1.080,1.038,0.440,0.374,0.226,0.285
+Turkmenistan,2018,Central and Eastern Europe,68,5.636,1.016,1.533,0.517,0.417,0.199,0.037
+Turkmenistan,2015,Central and Eastern Europe,70,5.548,0.958,1.227,0.539,0.476,0.170,0.308
+Turkmenistan,2022,Central and Eastern Europe,78,5.474,1.484,1.319,0.516,0.649,0.314,0.032
+Turkmenistan,2019,Central and Eastern Europe,87,5.247,1.052,1.538,0.657,0.394,0.244,0.028
+Turkmenistan,2020,Central and Eastern Europe,95,5.119,1.009,1.510,0.612,0.515,0.323,0.034
+Turkmenistan,2021,Central and Eastern Europe,97,5.066,1.046,1.172,0.439,0.602,0.366,0.033
+Uganda,2023,Sub-Saharan Africa,113,4.432,0.785,1.144,0.201,0.425,0.197,0.051
+Uganda,2022,Sub-Saharan Africa,117,4.603,0.777,0.875,0.418,0.402,0.222,0.066
+Uganda,2021,Sub-Saharan Africa,119,4.636,0.364,0.718,0.240,0.398,0.267,0.054
+Uganda,2020,Sub-Saharan Africa,126,4.432,0.312,1.052,0.378,0.402,0.265,0.064
+Uganda,2017,Sub-Saharan Africa,133,4.081,0.381,1.130,0.218,0.443,0.326,0.057
+Uganda,2018,Sub-Saharan Africa,135,4.161,0.322,1.090,0.237,0.450,0.259,0.061
+Uganda,2019,Sub-Saharan Africa,136,4.189,0.332,1.069,0.443,0.356,0.252,0.060
+Uganda,2015,Sub-Saharan Africa,141,3.931,0.211,1.133,0.339,0.457,0.291,0.073
+Uganda,2016,Sub-Saharan Africa,145,3.739,0.347,0.910,0.196,0.437,0.271,0.064
+Ukraine,2023,Central and Eastern Europe,92,5.071,1.358,1.354,0.355,0.551,0.265,0.016
+Ukraine,2022,Central and Eastern Europe,98,5.084,1.411,1.081,0.583,0.473,0.188,0.017
+Ukraine,2021,Central and Eastern Europe,110,4.875,0.979,0.958,0.517,0.417,0.181,0.010
+Ukraine,2015,Central and Eastern Europe,111,4.681,0.799,1.203,0.674,0.251,0.153,0.030
+Ukraine,2016,Central and Eastern Europe,123,4.324,0.873,1.014,0.586,0.129,0.204,0.018
+Ukraine,2020,Central and Eastern Europe,123,4.561,0.780,1.321,0.699,0.319,0.179,0.010
+Ukraine,2017,Central and Eastern Europe,132,4.096,0.895,1.395,0.576,0.123,0.270,0.023
+Ukraine,2019,Central and Eastern Europe,133,4.332,0.820,1.390,0.739,0.178,0.187,0.010
+Ukraine,2018,Central and Eastern Europe,138,4.103,0.793,1.413,0.609,0.163,0.187,0.011
+United Arab Emirates,2015,Middle East and Northern Africa,20,6.901,1.427,1.126,0.809,0.642,0.264,0.386
+United Arab Emirates,2017,Middle East and Northern Africa,21,6.648,1.626,1.266,0.727,0.608,0.361,0.324
+United Arab Emirates,2019,Middle East and Northern Africa,21,6.825,1.503,1.310,0.825,0.598,0.262,0.182
+United Arab Emirates,2020,Middle East and Northern Africa,21,6.791,1.431,1.251,0.788,0.653,0.281,0.220
+United Arab Emirates,2022,Middle East and Northern Africa,24,6.576,1.998,0.980,0.633,0.702,0.204,0.250
+United Arab Emirates,2021,Middle East and Northern Africa,25,6.561,1.555,0.860,0.594,0.670,0.236,0.223
+United Arab Emirates,2023,Middle East and Northern Africa,26,6.571,2.015,1.223,0.401,0.745,0.188,0.247
+United Arab Emirates,2016,Middle East and Northern Africa,28,6.573,1.574,0.871,0.730,0.562,0.266,0.356
+United Kingdom,2018,Western Europe,11,7.190,1.244,1.433,0.888,0.464,0.262,0.082
+United Kingdom,2020,Western Europe,13,7.165,1.273,1.458,0.976,0.525,0.373,0.323
+United Kingdom,2019,Western Europe,15,7.054,1.333,1.538,0.996,0.450,0.348,0.278
+United Kingdom,2021,Western Europe,17,7.064,1.423,1.062,0.757,0.580,0.340,0.306
+United Kingdom,2022,Western Europe,17,6.943,1.867,1.143,0.750,0.597,0.289,0.329
+United Kingdom,2017,Western Europe,19,6.714,1.442,1.496,0.805,0.508,0.493,0.265
+United Kingdom,2023,Western Europe,19,6.796,1.857,1.366,0.511,0.626,0.272,0.340
+United Kingdom,2015,Western Europe,21,6.867,1.266,1.285,0.909,0.596,0.519,0.321
+United Kingdom,2016,Western Europe,23,6.725,1.403,1.087,0.810,0.500,0.502,0.274
+United States,2016,North America,13,7.104,1.508,1.048,0.779,0.482,0.411,0.149
+United States,2017,North America,14,6.993,1.546,1.420,0.774,0.506,0.393,0.136
+United States,2015,North America,15,7.119,1.395,1.247,0.862,0.546,0.401,0.159
+United States,2023,North America,15,6.894,1.980,1.460,0.390,0.557,0.210,0.172
+United States,2022,North America,16,6.977,1.982,1.182,0.628,0.574,0.220,0.177
+United States,2018,North America,18,6.886,1.398,1.471,0.819,0.547,0.291,0.133
+United States,2020,North America,18,6.940,1.374,1.405,0.832,0.535,0.298,0.152
+United States,2019,North America,19,6.892,1.433,1.457,0.874,0.454,0.280,0.128
+United States,2021,North America,19,6.951,1.533,1.030,0.621,0.554,0.252,0.154
+Uruguay,2020,Latin America and Caribbean,26,6.440,1.071,1.425,0.857,0.594,0.132,0.193
+Uruguay,2017,Latin America and Caribbean,28,6.454,1.218,1.412,0.719,0.579,0.175,0.178
+Uruguay,2023,Latin America and Caribbean,28,6.494,1.617,1.445,0.435,0.683,0.102,0.254
+Uruguay,2016,Latin America and Caribbean,29,6.545,1.182,1.031,0.722,0.544,0.181,0.214
+Uruguay,2022,Latin America and Caribbean,30,6.474,1.615,1.180,0.672,0.665,0.103,0.265
+Uruguay,2018,Latin America and Caribbean,31,6.379,1.093,1.459,0.771,0.625,0.130,0.155
+Uruguay,2021,Latin America and Caribbean,31,6.431,1.164,1.042,0.649,0.625,0.128,0.223
+Uruguay,2015,Latin America and Caribbean,32,6.485,1.062,1.209,0.812,0.604,0.232,0.246
+Uruguay,2019,Latin America and Caribbean,33,6.293,1.124,1.465,0.891,0.523,0.127,0.150
+Uzbekistan,2020,Central and Eastern Europe,38,6.258,0.697,1.434,0.717,0.693,0.363,0.280
+Uzbekistan,2019,Central and Eastern Europe,41,6.174,0.745,1.529,0.756,0.631,0.322,0.240
+Uzbekistan,2021,Central and Eastern Europe,42,6.179,0.769,1.027,0.528,0.716,0.391,0.271
+Uzbekistan,2015,Central and Eastern Europe,44,6.003,0.632,1.340,0.598,0.658,0.228,0.308
+Uzbekistan,2018,Central and Eastern Europe,44,6.096,0.719,1.584,0.605,0.724,0.328,0.259
+Uzbekistan,2017,Central and Eastern Europe,47,5.971,0.786,1.549,0.498,0.658,0.416,0.247
+Uzbekistan,2016,Central and Eastern Europe,49,5.987,0.736,1.168,0.502,0.608,0.343,0.283
+Uzbekistan,2022,Central and Eastern Europe,53,6.063,1.219,1.092,0.600,0.716,0.283,0.240
+Uzbekistan,2023,Central and Eastern Europe,54,6.014,1.227,1.347,0.375,0.740,0.260,0.208
+Venezuela,2015,Latin America and Caribbean,23,6.810,1.044,1.256,0.721,0.429,0.058,0.111
+Venezuela,2016,Latin America and Caribbean,44,6.084,1.134,1.033,0.619,0.198,0.043,0.083
+Venezuela,2017,Latin America and Caribbean,82,5.250,1.128,1.431,0.617,0.154,0.065,0.064
+Venezuela,2023,Latin America and Caribbean,88,5.211,0.000,1.257,0.341,0.369,0.205,0.084
+Venezuela,2020,Latin America and Caribbean,99,5.053,0.770,1.349,0.767,0.272,0.087,0.064
+Venezuela,2018,Latin America and Caribbean,102,4.806,0.996,1.469,0.657,0.133,0.056,0.052
+Venezuela,2021,Latin America and Caribbean,107,4.892,0.852,0.897,0.574,0.284,0.078,0.072
+Venezuela,2019,Latin America and Caribbean,108,4.707,0.960,1.427,0.805,0.154,0.064,0.047
+Venezuela,2022,Latin America and Caribbean,108,4.925,0.000,0.968,0.578,0.283,0.225,0.082
+Vietnam,2023,Southeastern Asia,65,5.763,1.349,1.212,0.381,0.741,0.134,0.122
+Vietnam,2015,Southeastern Asia,75,5.360,0.632,0.912,0.747,0.594,0.169,0.104
+Vietnam,2022,Southeastern Asia,77,5.485,1.252,0.932,0.611,0.707,0.143,0.105
+Vietnam,2021,Southeastern Asia,79,5.411,0.817,0.873,0.616,0.679,0.124,0.091
+Vietnam,2020,Southeastern Asia,83,5.353,0.718,1.253,0.819,0.651,0.136,0.090
+Vietnam,2017,Southeastern Asia,94,5.074,0.789,1.277,0.652,0.571,0.235,0.088
+Vietnam,2019,Southeastern Asia,94,5.175,0.741,1.346,0.851,0.543,0.147,0.073
+Vietnam,2018,Southeastern Asia,95,5.103,0.715,1.365,0.702,0.618,0.177,0.079
+Vietnam,2016,Southeastern Asia,96,5.061,0.740,0.791,0.662,0.560,0.251,0.116
+Yemen,2022,Middle East and Northern Africa,132,4.197,0.691,1.043,0.384,0.330,0.090,0.098
+Yemen,2015,Middle East and Northern Africa,136,4.077,0.546,0.681,0.401,0.356,0.091,0.079
+Yemen,2021,Middle East and Northern Africa,141,3.658,0.329,0.831,0.272,0.268,0.092,0.089
+Yemen,2017,Middle East and Northern Africa,146,3.593,0.592,0.935,0.310,0.249,0.104,0.057
+Yemen,2020,Middle East and Northern Africa,146,3.527,0.393,1.177,0.415,0.244,0.095,0.087
+Yemen,2016,Middle East and Northern Africa,147,3.724,0.579,0.475,0.310,0.229,0.098,0.059
+Yemen,2019,Middle East and Northern Africa,151,3.380,0.287,1.163,0.463,0.143,0.108,0.077
+Yemen,2018,Middle East and Northern Africa,152,3.355,0.442,1.073,0.343,0.244,0.083,0.064
+Zambia,2015,Sub-Saharan Africa,85,5.129,0.470,0.916,0.299,0.488,0.196,0.125
+Zambia,2016,Sub-Saharan Africa,106,4.795,0.612,0.638,0.236,0.427,0.179,0.115
+Zambia,2017,Sub-Saharan Africa,116,4.514,0.636,1.003,0.258,0.462,0.250,0.078
+Zambia,2018,Sub-Saharan Africa,125,4.377,0.562,1.047,0.295,0.503,0.221,0.082
+Zambia,2023,Sub-Saharan Africa,128,3.982,0.914,0.890,0.095,0.545,0.189,0.080
+Zambia,2021,Sub-Saharan Africa,137,4.073,0.528,0.552,0.231,0.487,0.227,0.074
+Zambia,2022,Sub-Saharan Africa,137,3.760,0.930,0.577,0.306,0.525,0.203,0.083
+Zambia,2019,Sub-Saharan Africa,138,4.107,0.578,1.058,0.426,0.431,0.247,0.087
+Zambia,2020,Sub-Saharan Africa,141,3.759,0.537,0.896,0.364,0.491,0.251,0.087
+Zimbabwe,2015,Sub-Saharan Africa,115,4.610,0.271,1.033,0.335,0.259,0.190,0.081
+Zimbabwe,2016,Sub-Saharan Africa,131,4.193,0.350,0.715,0.160,0.254,0.185,0.086
+Zimbabwe,2023,Sub-Saharan Africa,134,3.204,0.758,0.881,0.069,0.363,0.112,0.117
+Zimbabwe,2017,Sub-Saharan Africa,138,3.875,0.376,1.083,0.197,0.336,0.189,0.095
+Zimbabwe,2018,Sub-Saharan Africa,144,3.692,0.357,1.094,0.248,0.406,0.132,0.099
+Zimbabwe,2022,Sub-Saharan Africa,144,2.995,0.947,0.690,0.270,0.329,0.106,0.105
+Zimbabwe,2019,Sub-Saharan Africa,146,3.663,0.366,1.114,0.433,0.361,0.151,0.089
+Zimbabwe,2021,Sub-Saharan Africa,148,3.145,0.457,0.649,0.243,0.359,0.157,0.075
+Zimbabwe,2020,Sub-Saharan Africa,151,3.299,0.426,1.048,0.375,0.377,0.151,0.081
